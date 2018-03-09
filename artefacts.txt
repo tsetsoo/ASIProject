@@ -1,0 +1,31 @@
+timesheets
+export views - current screen exactly as it is - saves columns, custom stuff
+export reports - Choose to export reports in HTML, PDF, .csv or Excel format. 
+custom creation forms for adding items/users
+export calendar - import to outlook, google cal etc.
+
+project management
+	agile status boards 
+	Gantt charts
+	dashboard and reports
+	task and issue tracking
+	collaborative discussions
+	project hierarchy
+	configurable views and workflows
+	histories and activities
+	custom integrations and workflow automations
+
+product management
+ innovation and ideas management
+ product roadmapping 
+ requirements management 
+ product hierarchies 
+ release management 
+ importing and exporting 
+ dashboards and reporting
+ 
+ feedback management 
+ email integration 
+ customer portal 
+ comprehensive reporting 
+ dashboard tool set
