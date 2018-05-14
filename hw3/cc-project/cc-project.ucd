@@ -1,0 +1,827 @@
+<?xml version="1.0" standalone="yes"?>
+<UCTDataSet xmlns="http://serliosoft.com/UCTData.xsd">
+  <VersionInfo>
+    <Version>5.1</Version>
+    <SavedWith>13.0.6696</SavedWith>
+    <CreatedWith>13.0.6696</CreatedWith>
+  </VersionInfo>
+  <Project>
+    <TrackChanges>false</TrackChanges>
+  </Project>
+  <TopLevelElement>
+    <RefID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</RefID>
+  </TopLevelElement>
+  <Package>
+    <UniqueID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</UniqueID>
+    <Name>cc-project</Name>
+  </Package>
+  <Requirement>
+    <UniqueID>REQ-f3aadbd3-925e-43bb-a935-f82002499246</UniqueID>
+    <UserID>REQ-1</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Контакт и обратна връзка на потребителите с фирмите, предлагащи услуги</Name>
+    <Sequence>0</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T19:58:15.4393267+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-a6887fcf-1088-401b-86ea-20edf8bcf933</UniqueID>
+    <UserID>REQ-2</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Интеграция със социални мрежи(Facebook, Instragram)</Name>
+    <Sequence>1</Sequence>
+    <Type>Functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:25:01.1367218+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-87ee7a9d-b4b2-44ed-8d0e-e9e9afe5ac69</UniqueID>
+    <UserID>REQ-3</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Общо пътуване за много хора, но то да може да се конфигурира индивидуално за всеки от пътуващите</Name>
+    <Sequence>2</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:18:53.4699214+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-32548cde-5e41-4e60-9c41-b1078ed3480e</UniqueID>
+    <UserID>REQ-4</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Съхраняване на билети, резервации без да е нужен достъп до интернет</Name>
+    <Sequence>3</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:17:06.3587354+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-b3386a50-ab2b-461b-975d-f23e3a6c9c47</UniqueID>
+    <UserID>REQ-5</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Нерегистриран потребител има възможност да види демо и да разглежда публични сценарии на пътувания</Name>
+    <Sequence>4</Sequence>
+    <Type>Functional</Type>
+    <Priority>4</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:13:26.4517406+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-2dd50bfd-29f9-4e10-ba6e-d3dbbf538ea2</UniqueID>
+    <UserID>REQ-6</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Регистриран потребител може да създава списъци с необходими неща (и по категории)</Name>
+    <Sequence>5</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:00:15.7925204+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-9a67c454-24bf-4096-bba1-bffe02167c49</UniqueID>
+    <UserID>REQ-7</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Регистриран потребител може да дефинира различни дейности по време на пътуване</Name>
+    <Sequence>6</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:00:27.2825126+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-bbeeb112-ed77-4171-b75c-504a15b338eb</UniqueID>
+    <UserID>REQ-8</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Системата предоставя анализ на място за пътуване по различни критерии</Name>
+    <Sequence>7</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:18:38.1677707+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-1a1da829-d8f1-4ee4-b445-ef66dd5192cb</UniqueID>
+    <UserID>REQ-9</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Регистриран потребител може да планира свои публични и лични маршрути за пътуване</Name>
+    <Sequence>8</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:19:18.5289363+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-870d73f3-355c-4d78-b789-f349c44710aa</UniqueID>
+    <UserID>REQ-10</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Системата може да генерира маршрут през всички дефинирани места за посещение</Name>
+    <Sequence>9</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:06:50.2703947+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-9c130e69-a351-447d-aa53-b8da48a8ae64</UniqueID>
+    <UserID>REQ-11</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Регистриран потребител може да публикува свои сценарии на пътуване</Name>
+    <Sequence>10</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:01:24.273907+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-37b4c64e-b3ec-434c-a3df-60a915cc09d9</UniqueID>
+    <UserID>REQ-12</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Регистриран потребител може да прави копие на сценарии публикувани от други потребители, като те биват добавени при неговите пътувания, където той може да ги променя</Name>
+    <Sequence>11</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:23:20.2937509+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-64e886e4-0da6-4a7c-809e-398f1e038882</UniqueID>
+    <UserID>REQ-13</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Регистриран потребител може да организира пътуване заедно с други поканени потребители</Name>
+    <Sequence>12</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:02:09.2676513+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-2b00e2e4-787a-40b5-9628-cfbd94a550b3</UniqueID>
+    <UserID>REQ-14</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Регистрирани компании могат да публикуват услугите, които предоставят</Name>
+    <Sequence>13</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:02:27.4155893+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-8f2263ed-f706-46e7-a9d7-9ded6fdaf22b</UniqueID>
+    <UserID>REQ-15</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Регистрирани компании могат да си партнират, за да предоставят пакети от услуги</Name>
+    <Sequence>14</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:10:59.7701143+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-0d3d6905-5c5f-4054-baaf-63024d9aa34a</UniqueID>
+    <UserID>REQ-16</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Интеграция с Airbnb</Name>
+    <Sequence>15</Sequence>
+    <Type>Functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:17:49.3361314+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-d9eedf4b-3220-44d1-97f4-7be53732566f</UniqueID>
+    <UserID>REQ-17</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Предложения за дестинации и забележителности базирани на обратна връзка на пътуващи за тях</Name>
+    <Sequence>16</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:10:43.3361019+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-1dcf8f1d-2629-4113-9d2c-1040da136502</UniqueID>
+    <UserID>REQ-18</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Всеки отделен спътник може да има свой миркоплан в рамките на макропланът към който се е присъединил</Name>
+    <Sequence>17</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:19:09.1313761+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-0187920b-f942-495e-8f36-a8b7f5196bd1</UniqueID>
+    <UserID>REQ-19</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Използване на SSL/TLS encryption за цялата система</Name>
+    <Sequence>18</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:20:01.532505+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-172a4a60-316f-4a94-8eee-47cd307d4103</UniqueID>
+    <UserID>REQ-20</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Работа с различни видове валути</Name>
+    <Sequence>19</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:10:20.5778525+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-f52155df-4969-4149-b0be-03c0066c5678</UniqueID>
+    <UserID>REQ-21</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Висока степен на достъпност - поне 99%</Name>
+    <Sequence>20</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:10:13.2768886+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-a75bb16a-7192-43c2-84de-c504815f2ffd</UniqueID>
+    <UserID>REQ-22</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Работа с най-разпространените видове банкови карти - Visa, MasterCard, AmericanExpress</Name>
+    <Sequence>21</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:18:00.2306494+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-fdf4b061-1ab4-47a5-bb24-b98a42227648</UniqueID>
+    <UserID>REQ-23</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Интеграция на пътуване с Google Calendar, Google Maps</Name>
+    <Sequence>22</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:24:11.3640285+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-9a9f18ae-59d7-4230-9b9e-5a1a3e0b4e87</UniqueID>
+    <UserID>REQ-24</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Автоматизиран начин за търсене и плащане на осигуровки, билети, хотел, кола под наем, такси</Name>
+    <Description />
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\par
+}
+</RichDescription>
+    <Sequence>23</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:27:33.3780324+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-dc9c2500-3f64-4384-8e07-f3ba99119852</UniqueID>
+    <UserID>REQ-25</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Системата да бъде налична на различни видове устройства - компютър, лаптоп, телефон, таблет</Name>
+    <Sequence>24</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:04:48.3427835+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-6decb714-ac7a-4160-a86f-786725a89d6c</UniqueID>
+    <UserID>REQ-26</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Системата представлява уеб приложение</Name>
+    <Description xml:space="preserve">		</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\tab\tab\par
+}
+</RichDescription>
+    <Sequence>25</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:18:23.0962692+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-1a6c2990-9b37-4b51-8d36-1a44872bed72</UniqueID>
+    <UserID>REQ-27</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Системата да бъде налична на няколко езика - английски, руски, български</Name>
+    <Sequence>26</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>4</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:14:42.6229627+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-aa288dc0-f68e-47db-a150-a7e204a9ef6f</UniqueID>
+    <UserID>REQ-28</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Менажиране на лични данни спрямо Общ регламент за защита на личните данни (GDPR)</Name>
+    <Sequence>27</Sequence>
+    <Type>Constraint</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:25:10.0525737+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-809d23f7-18a0-402f-8260-d3e383a6814d</UniqueID>
+    <UserID>REQ-29</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Отговаряне на стандартите за парични транзакции онлайн</Name>
+    <Sequence>28</Sequence>
+    <Type>Constraint</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:25:28.0675609+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-c7cb207d-07c6-40e1-8f2d-512cc3c2f262</UniqueID>
+    <UserID>REQ-30</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Стандарти свързани легалното пътуване на потребители</Name>
+    <Sequence>29</Sequence>
+    <Type>Constraint</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-14T20:25:48.4584462+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <UserID>
+    <DefaultPrefix>UC-</DefaultPrefix>
+    <NextValue>1</NextValue>
+  </UserID>
+  <UserID>
+    <DefaultPrefix>A-</DefaultPrefix>
+    <NextValue>1</NextValue>
+  </UserID>
+  <UserID>
+    <DefaultPrefix>REQ-</DefaultPrefix>
+    <NextValue>31</NextValue>
+  </UserID>
+  <UserID>
+    <DefaultPrefix>DEF-</DefaultPrefix>
+    <NextValue>1</NextValue>
+  </UserID>
+  <UserID>
+    <DefaultPrefix>S-</DefaultPrefix>
+    <NextValue>1</NextValue>
+  </UserID>
+  <BuiltInField>
+    <UniqueID>1</UniqueID>
+    <Name>Priority</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>Priority of the use case.</Description>
+    <DefaultValue>1</DefaultValue>
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>2</UniqueID>
+    <Name>Level</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>The level of detail in the use case.</Description>
+    <DefaultValue />
+    <Choices>Summary;User;Subfunction</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>3</UniqueID>
+    <Name>Complexity</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>An indication of the difficulty of implementation.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>4</UniqueID>
+    <Name>UseCaseStatus</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>Status of the use case specification.</Description>
+    <DefaultValue />
+    <Choices>Name Only;Initial;Base;Complete;Deferred</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>5</UniqueID>
+    <Name>ImplStatus</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>Status of the use case implementation.</Description>
+    <DefaultValue />
+    <Choices>Scheduled;Started;Partially Complete;Complete;Partially Deferred;Deferred</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>6</UniqueID>
+    <Name>AssignedTo</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>Who is responsible for this use case.</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>7</UniqueID>
+    <Name>Release</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>Which release this use case is applicable to.</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>100</UniqueID>
+    <Name>ReqType</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>The type of requirement.</Description>
+    <DefaultValue>Non-functional</DefaultValue>
+    <Choices>Functional;Non-functional;Business Rule;Constraint;Performance;Test;Change Request</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>101</UniqueID>
+    <Name>Priority</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>Priority of the requirement.</Description>
+    <DefaultValue>1</DefaultValue>
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>102</UniqueID>
+    <Name>Source</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>Where did the requirement originate?</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>103</UniqueID>
+    <Name>Status</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>Status of the requirement.</Description>
+    <DefaultValue />
+    <Choices>Proposed;Approved;Rejected;Deferred;Implemented;Mandatory;Obsolete</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>104</UniqueID>
+    <Name>AssignedTo</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>Who is responsible for this requirement?</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>105</UniqueID>
+    <Name>Release</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>Which release this requirement is applicable to.</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>200</UniqueID>
+    <Name>Complexity</Name>
+    <AppliesTo>1</AppliesTo>
+    <Category>Details</Category>
+    <Description>Complexity of this actor's interactions with the system.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>300</UniqueID>
+    <Name>Priority</Name>
+    <AppliesTo>6</AppliesTo>
+    <Category>Details</Category>
+    <Description>Priority for resolving issue.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>301</UniqueID>
+    <Name>Status</Name>
+    <AppliesTo>6</AppliesTo>
+    <Category>Details</Category>
+    <Description>State of issue.</Description>
+    <DefaultValue />
+    <Choices>New;Assigned;Resolved;Deferred</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>302</UniqueID>
+    <Name>Type</Name>
+    <AppliesTo>6</AppliesTo>
+    <Category>Details</Category>
+    <Description>Type of issue.</Description>
+    <DefaultValue />
+    <Choices>Question;Approval;Clarification;Defect;Feature</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>303</UniqueID>
+    <Name>Complexity</Name>
+    <AppliesTo>6</AppliesTo>
+    <Category>Details</Category>
+    <Description>Complexity of issue to be resolved.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>304</UniqueID>
+    <Name>Risk</Name>
+    <AppliesTo>6</AppliesTo>
+    <Category>Details</Category>
+    <Description>Risk to project while unresolved.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>400</UniqueID>
+    <Name>Status</Name>
+    <AppliesTo>7</AppliesTo>
+    <Category>Details</Category>
+    <Description>State of test scenario.</Description>
+    <DefaultValue />
+    <Choices>New;Partially defined;Defined</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>401</UniqueID>
+    <Name>TestType</Name>
+    <AppliesTo>7</AppliesTo>
+    <Category>Details</Category>
+    <Description>Type of test.</Description>
+    <DefaultValue />
+    <Choices>Acceptance;Usability;Performance;Load;Security;Bounds;White box</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>402</UniqueID>
+    <Name>Complexity</Name>
+    <AppliesTo>7</AppliesTo>
+    <Category>Details</Category>
+    <Description>Complexity of test.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>403</UniqueID>
+    <Name>Priority</Name>
+    <AppliesTo>7</AppliesTo>
+    <Category>Details</Category>
+    <Description>Priority of the test scenario.</Description>
+    <DefaultValue>1</DefaultValue>
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>501</UniqueID>
+    <Name>Priority</Name>
+    <AppliesTo>9</AppliesTo>
+    <Category>Details</Category>
+    <Description>Priority of the user story.</Description>
+    <DefaultValue />
+    <Choices>Must;Should;Could;Won't</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>502</UniqueID>
+    <Name>Size</Name>
+    <AppliesTo>9</AppliesTo>
+    <Category>Details</Category>
+    <Description>The relative complexity of the user story.</Description>
+    <DefaultValue />
+    <Choices>X-Small;Small;Med;Large;X-Large</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>503</UniqueID>
+    <Name>AssignedTo</Name>
+    <AppliesTo>9</AppliesTo>
+    <Category>Details</Category>
+    <Description>Who is responsible for this user story?</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>504</UniqueID>
+    <Name>Status</Name>
+    <AppliesTo>9</AppliesTo>
+    <Category>Details</Category>
+    <Description>Status of the user story.</Description>
+    <DefaultValue />
+    <Choices>Backlog;Doing;Review;Done</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+</UCTDataSet>
