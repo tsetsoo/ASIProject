@@ -22,8 +22,18 @@
     <Name>View Demo</Name>
     <Sequence>0</Sequence>
     <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
     <DateAdded>2018-05-14T22:39:11.3831975+03:00</DateAdded>
-    <DateModified>2018-05-14T22:46:20.4875219+03:00</DateModified>
+    <DateModified>2018-05-16T22:59:44.1492298+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-3dc48c3d-c3a1-49da-93ea-98c7d4ef8b08</UniqueID>
@@ -32,8 +42,18 @@
     <Name>Register</Name>
     <Sequence>1</Sequence>
     <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
     <DateAdded>2018-05-14T22:39:27.4958905+03:00</DateAdded>
-    <DateModified>2018-05-14T23:01:39.3540465+03:00</DateModified>
+    <DateModified>2018-05-16T23:07:57.7453011+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-b322dad9-4738-4e42-9276-07ba7cbb41fd</UniqueID>
@@ -42,8 +62,18 @@
     <Name>Register with social media</Name>
     <Sequence>2</Sequence>
     <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
     <DateAdded>2018-05-14T22:40:05.5679505+03:00</DateAdded>
-    <DateModified>2018-05-14T22:46:29.3815371+03:00</DateModified>
+    <DateModified>2018-05-16T23:11:30.9151369+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-7ed6d874-6d86-4b86-9cd9-6572e5ae902a</UniqueID>
@@ -63,7 +93,7 @@
     <Sequence>4</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:40:58.7514539+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:44.474943+03:00</DateModified>
+    <DateModified>2018-05-16T23:12:22.8674167+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-a27ebe4c-2c39-412c-ba35-3c89607c38d2</UniqueID>
@@ -72,8 +102,18 @@
     <Name>Create lists of items</Name>
     <Sequence>5</Sequence>
     <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
     <DateAdded>2018-05-14T22:41:16.3376286+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:18.4425312+03:00</DateModified>
+    <DateModified>2018-05-16T23:15:37.4226455+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-1781d581-a072-4261-a902-da8b0f58214c</UniqueID>
@@ -83,7 +123,7 @@
     <Sequence>6</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:41:27.0158497+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:20.4311983+03:00</DateModified>
+    <DateModified>2018-05-16T23:17:41.421718+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-31ecd9d2-a4e6-42e3-be64-6ae5d7648d06</UniqueID>
@@ -92,8 +132,18 @@
     <Name>Create trip</Name>
     <Sequence>7</Sequence>
     <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
     <DateAdded>2018-05-14T22:41:54.5259697+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:22.3407592+03:00</DateModified>
+    <DateModified>2018-05-16T23:19:59.8274399+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-30179298-d999-4a63-b8c2-9ec60d1772e1</UniqueID>
@@ -102,8 +152,18 @@
     <Name>Invite users to trip</Name>
     <Sequence>8</Sequence>
     <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
     <DateAdded>2018-05-14T22:42:27.147449+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:24.2568288+03:00</DateModified>
+    <DateModified>2018-05-16T23:21:47.0375643+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-822cc603-288a-4f13-b587-664e1ad469af</UniqueID>
@@ -112,8 +172,18 @@
     <Name>View predefined trips</Name>
     <Sequence>9</Sequence>
     <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
     <DateAdded>2018-05-14T22:42:40.6972109+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:26.0267025+03:00</DateModified>
+    <DateModified>2018-05-16T23:22:39.2229492+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-cad59f54-6e45-4cbb-92ad-490c35b3a3ef</UniqueID>
@@ -122,8 +192,18 @@
     <Name>Add activities to trip</Name>
     <Sequence>10</Sequence>
     <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
     <DateAdded>2018-05-14T22:43:12.3373911+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:28.4789908+03:00</DateModified>
+    <DateModified>2018-05-16T23:23:52.5989152+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-8bdd137a-f793-48e0-a4e2-d9a1e4e17106</UniqueID>
@@ -133,7 +213,7 @@
     <Sequence>11</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:43:36.0296894+03:00</DateAdded>
-    <DateModified>2018-05-14T22:57:18.7046907+03:00</DateModified>
+    <DateModified>2018-05-16T23:24:38.0429326+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-3b59c328-6b51-4de3-aff6-333e5031c6f8</UniqueID>
@@ -143,7 +223,7 @@
     <Sequence>12</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:43:54.2700665+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:31.2146598+03:00</DateModified>
+    <DateModified>2018-05-16T23:25:34.3598309+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-a538ad48-f7b2-4bc2-9dc3-a71ec33fbf8d</UniqueID>
@@ -153,7 +233,7 @@
     <Sequence>13</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:44:08.9512426+03:00</DateAdded>
-    <DateModified>2018-05-14T22:57:31.7727344+03:00</DateModified>
+    <DateModified>2018-05-16T23:26:13.1105376+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-3c9a1592-de76-4a28-94af-69a01f1a80bc</UniqueID>
@@ -163,7 +243,7 @@
     <Sequence>14</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:49:34.7924225+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:33.5027282+03:00</DateModified>
+    <DateModified>2018-05-16T23:27:17.7548861+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-076492e0-3a8a-4382-a3c7-33f0cd0d79c2</UniqueID>
@@ -173,7 +253,7 @@
     <Sequence>15</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:49:55.070136+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:35.6966705+03:00</DateModified>
+    <DateModified>2018-05-16T23:28:05.7305324+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-a8164ab3-4302-4e53-ad2f-c5e9c643a427</UniqueID>
@@ -183,7 +263,7 @@
     <Sequence>16</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:50:09.7383072+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:38.0528302+03:00</DateModified>
+    <DateModified>2018-05-16T23:32:55.5219491+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-580be992-d6e7-4c9b-a801-b6cf60aa55e3</UniqueID>
@@ -193,7 +273,7 @@
     <Sequence>17</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:50:27.4505812+03:00</DateAdded>
-    <DateModified>2018-05-14T22:55:03.9083715+03:00</DateModified>
+    <DateModified>2018-05-16T23:30:13.0738658+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-f1c2f787-daa4-45f8-81b9-7e12ed15fdd1</UniqueID>
@@ -203,7 +283,7 @@
     <Sequence>18</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:50:41.4223182+03:00</DateAdded>
-    <DateModified>2018-05-14T22:55:06.6565571+03:00</DateModified>
+    <DateModified>2018-05-16T23:31:16.0904015+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-05acf2a3-f9be-46e6-9c82-0b06d69ddc2a</UniqueID>
@@ -213,7 +293,7 @@
     <Sequence>19</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:51:08.1646883+03:00</DateAdded>
-    <DateModified>2018-05-14T22:58:05.8985217+03:00</DateModified>
+    <DateModified>2018-05-16T23:31:54.3948916+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-bd8f0328-2538-4db8-8508-775fa9c9fd29</UniqueID>
@@ -223,7 +303,7 @@
     <Sequence>20</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:51:42.2383834+03:00</DateAdded>
-    <DateModified>2018-05-14T22:57:54.5347821+03:00</DateModified>
+    <DateModified>2018-05-16T23:32:44.9312392+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-87512679-8ff9-4c8d-a35c-9385aa1465d6</UniqueID>
@@ -232,8 +312,18 @@
     <Name>Export calendar</Name>
     <Sequence>21</Sequence>
     <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
     <DateAdded>2018-05-14T22:51:59.1666068+03:00</DateAdded>
-    <DateModified>2018-05-14T22:58:03.7866897+03:00</DateModified>
+    <DateModified>2018-05-16T23:33:36.2984697+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-1e9c9f86-1cdd-4bd4-99aa-4e2e87f9e37e</UniqueID>
@@ -242,8 +332,18 @@
     <Name>Export map</Name>
     <Sequence>22</Sequence>
     <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
     <DateAdded>2018-05-14T22:52:07.706559+03:00</DateAdded>
-    <DateModified>2018-05-14T22:57:56.6866681+03:00</DateModified>
+    <DateModified>2018-05-16T23:34:28.7489955+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-7ff3f897-d20d-4917-906b-d61da45fcf60</UniqueID>
@@ -253,7 +353,7 @@
     <Sequence>23</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:52:23.3986032+03:00</DateAdded>
-    <DateModified>2018-05-14T22:57:59.3026768+03:00</DateModified>
+    <DateModified>2018-05-16T23:35:09.7097578+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-a95cd9f5-e62c-4911-9dd4-41f7ed22c972</UniqueID>
@@ -262,8 +362,18 @@
     <Name>Pay total expenses</Name>
     <Sequence>24</Sequence>
     <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
     <DateAdded>2018-05-14T22:52:51.6064434+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:40.352915+03:00</DateModified>
+    <DateModified>2018-05-16T23:37:04.8226048+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-a81116f9-7555-402e-a72a-d8d2afd93725</UniqueID>
@@ -273,7 +383,7 @@
     <Sequence>25</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:53:06.9945918+03:00</DateAdded>
-    <DateModified>2018-05-14T23:00:42.7686548+03:00</DateModified>
+    <DateModified>2018-05-16T23:37:45.7264691+03:00</DateModified>
   </UseCase>
   <Actor>
     <UniqueID>A-889bcf5f-206f-4731-bebb-f3303f6cce4e</UniqueID>
@@ -342,6 +452,206 @@
     <Sequence>3</Sequence>
     <FileName>company_cases.ndx</FileName>
     <Type>0</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-41b28464-ba77-4e47-91c9-3fbf155d585f</UniqueID>
+    <ParentID>UC-f8b57d98-5c91-407c-8174-64a668d7989a</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>ViewDemoActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-b6556b12-7b8f-4bfd-9281-5e7dd0032f38</UniqueID>
+    <ParentID>UC-3dc48c3d-c3a1-49da-93ea-98c7d4ef8b08</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>RegisterActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-2d1a8e5f-f138-4346-9160-b1c64c6a0afb</UniqueID>
+    <ParentID>UC-b322dad9-4738-4e42-9276-07ba7cbb41fd</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>RegisterWithSocialMediaActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-941b956f-2810-4f27-b203-6915e0c7fe76</UniqueID>
+    <ParentID>UC-260a6a61-345e-43f8-83db-6fec54965b5b</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>LoginActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-04ae75f3-c68a-443a-959f-eed4e9be33a3</UniqueID>
+    <ParentID>UC-a27ebe4c-2c39-412c-ba35-3c89607c38d2</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>CreateListsOfItemsActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-5a19f37a-8a08-48e1-ad21-0b8feac33bd3</UniqueID>
+    <ParentID>UC-1781d581-a072-4261-a902-da8b0f58214c</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>SendFeedbackActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-9ed74726-4c94-4fac-90aa-c418b25ad572</UniqueID>
+    <ParentID>UC-31ecd9d2-a4e6-42e3-be64-6ae5d7648d06</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>CreateTripActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-875a5081-07e3-4346-a912-79c09a912e92</UniqueID>
+    <ParentID>UC-30179298-d999-4a63-b8c2-9ec60d1772e1</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>InviteUsersToTripActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-4ac4209d-b6aa-47b5-a7d6-9f1d0ef93b21</UniqueID>
+    <ParentID>UC-822cc603-288a-4f13-b587-664e1ad469af</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>ViewPredefinedTripsActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-23e67e30-d686-474b-a002-0a3b3127ff1c</UniqueID>
+    <ParentID>UC-cad59f54-6e45-4cbb-92ad-490c35b3a3ef</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>AddActivitiesToTripActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-7e2ed0b7-dc78-4f66-b987-43af3bdeec7d</UniqueID>
+    <ParentID>UC-8bdd137a-f793-48e0-a4e2-d9a1e4e17106</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>AnalyzeTripActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-d8b6785e-2295-4240-903b-9bcfd4582957</UniqueID>
+    <ParentID>UC-3b59c328-6b51-4de3-aff6-333e5031c6f8</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>AddRouteActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-f3b0e57d-63ba-4476-b7ea-fc7c087bc9fa</UniqueID>
+    <ParentID>UC-a538ad48-f7b2-4bc2-9dc3-a71ec33fbf8d</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>GenerateRouteActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-2f695d6c-5d1a-4438-a264-a013e8f66091</UniqueID>
+    <ParentID>UC-3c9a1592-de76-4a28-94af-69a01f1a80bc</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>PublishTripScenarioActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-d3ff1d45-5b80-4367-be97-aded71c7f2f7</UniqueID>
+    <ParentID>UC-076492e0-3a8a-4382-a3c7-33f0cd0d79c2</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>SaveCopyOfPublishedTripActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-3d71dd76-96e2-4547-9bed-a870be06fe23</UniqueID>
+    <ParentID>UC-a8164ab3-4302-4e53-ad2f-c5e9c643a427</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>ModifyCopiedTripActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-42d6e189-7b2e-4900-9075-0e6df467bad5</UniqueID>
+    <ParentID>UC-580be992-d6e7-4c9b-a801-b6cf60aa55e3</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>AddServiceActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-60994f10-2baf-433a-8369-9aded746106f</UniqueID>
+    <ParentID>UC-f1c2f787-daa4-45f8-81b9-7e12ed15fdd1</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>ProposePartnershipActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-5f928855-2cd7-44d1-8faa-f8f6af5fc03c</UniqueID>
+    <ParentID>UC-05acf2a3-f9be-46e6-9c82-0b06d69ddc2a</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>RecommendDestinationsActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-c1421414-9ba0-4213-8c51-ff6858ab6a81</UniqueID>
+    <ParentID>UC-bd8f0328-2538-4db8-8508-775fa9c9fd29</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>ConvertCurrencyActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-910b7758-6cb5-48c8-9843-4d9c3ab180c1</UniqueID>
+    <ParentID>UC-87512679-8ff9-4c8d-a35c-9385aa1465d6</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>ExportCalendarActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-43619aa8-ea59-4f6b-add0-9e4915b1c270</UniqueID>
+    <ParentID>UC-1e9c9f86-1cdd-4bd4-99aa-4e2e87f9e37e</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>ExportMapActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-c847e779-956d-40d1-adbc-62d90e526002</UniqueID>
+    <ParentID>UC-7ff3f897-d20d-4917-906b-d61da45fcf60</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>CalculateTotalExpensesActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-4b77aaa1-cc20-4596-981b-cf05a4b0cae9</UniqueID>
+    <ParentID>UC-a95cd9f5-e62c-4911-9dd4-41f7ed22c972</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>PayTotalExpensesActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-96904e6f-e086-443b-956d-aedcb68206b5</UniqueID>
+    <ParentID>UC-a81116f9-7555-402e-a72a-d8d2afd93725</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>ChangeLanguageActivityDiagram.ndx</FileName>
+    <Type>1</Type>
   </Diagram>
   <UCActor>
     <ParentID>UC-f8b57d98-5c91-407c-8174-64a668d7989a</ParentID>
@@ -483,6 +793,106 @@
     <ActorID>A-e2c641f3-26ed-4687-81ce-2b237f2f7bba</ActorID>
     <Kind>0</Kind>
   </UCActor>
+  <Scenario>
+    <UniqueID>MSS-01ee497b-f416-4675-b339-f6e6f6a4898d</UniqueID>
+    <ParentID>UC-f8b57d98-5c91-407c-8174-64a668d7989a</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-27c6e5b4-afd8-40e1-a8e3-dfe4d44cff8a</UniqueID>
+    <ParentID>UC-3dc48c3d-c3a1-49da-93ea-98c7d4ef8b08</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-180d64e3-fc4a-45d9-892e-eb95f934d1cd</UniqueID>
+    <ParentID>UC-b322dad9-4738-4e42-9276-07ba7cbb41fd</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-df961986-55c0-4721-a0ae-18d287e070e2</UniqueID>
+    <ParentID>UC-260a6a61-345e-43f8-83db-6fec54965b5b</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-69208702-9856-4524-9181-561910dca1ba</UniqueID>
+    <ParentID>UC-a27ebe4c-2c39-412c-ba35-3c89607c38d2</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-afec2fc0-f6c6-4024-9918-e8b08d8b701b</UniqueID>
+    <ParentID>UC-1781d581-a072-4261-a902-da8b0f58214c</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-cf2de53f-b915-4e3b-bb37-cd7fb52f5bad</UniqueID>
+    <ParentID>UC-31ecd9d2-a4e6-42e3-be64-6ae5d7648d06</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-510e2dd5-2146-4242-a1be-8f5c1b0d17b1</UniqueID>
+    <ParentID>UC-30179298-d999-4a63-b8c2-9ec60d1772e1</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-938f1890-74b1-4a0e-89d4-904a63d76943</UniqueID>
+    <ParentID>UC-822cc603-288a-4f13-b587-664e1ad469af</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-aef6b8c8-77df-40c0-bb25-64911da9ea36</UniqueID>
+    <ParentID>UC-cad59f54-6e45-4cbb-92ad-490c35b3a3ef</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-b683ba33-6dfd-472a-a855-8e92d84d5ff7</UniqueID>
+    <ParentID>UC-8bdd137a-f793-48e0-a4e2-d9a1e4e17106</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-941eb5ca-d029-4c5a-9dd1-020c4bcae9fd</UniqueID>
+    <ParentID>UC-3b59c328-6b51-4de3-aff6-333e5031c6f8</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-748d9675-c217-4ec7-bdd6-4e9e8c9a9655</UniqueID>
+    <ParentID>UC-a538ad48-f7b2-4bc2-9dc3-a71ec33fbf8d</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-8bb1bcce-3c2b-4121-bd86-6d4a68f2a6c3</UniqueID>
+    <ParentID>UC-3c9a1592-de76-4a28-94af-69a01f1a80bc</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-27aea7e7-2d3b-4fc6-ad7d-d69f848334d4</UniqueID>
+    <ParentID>UC-076492e0-3a8a-4382-a3c7-33f0cd0d79c2</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-5baa39a8-c0b4-4e30-865a-873d87724686</UniqueID>
+    <ParentID>UC-a8164ab3-4302-4e53-ad2f-c5e9c643a427</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-ad949039-33de-4004-a81e-02dc682fc628</UniqueID>
+    <ParentID>UC-580be992-d6e7-4c9b-a801-b6cf60aa55e3</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-756d3f39-7987-4c12-a682-7092f250b472</UniqueID>
+    <ParentID>UC-f1c2f787-daa4-45f8-81b9-7e12ed15fdd1</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-4fc279b9-ac1a-4da6-86ca-e719238d03d9</UniqueID>
+    <ParentID>UC-05acf2a3-f9be-46e6-9c82-0b06d69ddc2a</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-03461e52-8842-480a-a329-80e76f749078</UniqueID>
+    <ParentID>UC-bd8f0328-2538-4db8-8508-775fa9c9fd29</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-2b938c2d-70d0-453f-9fa2-24182351d598</UniqueID>
+    <ParentID>UC-87512679-8ff9-4c8d-a35c-9385aa1465d6</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-8e669ffe-96f9-475d-bc0c-fe7f24870414</UniqueID>
+    <ParentID>UC-1e9c9f86-1cdd-4bd4-99aa-4e2e87f9e37e</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-d71a9fa6-6503-4e3d-af6b-420beb66d566</UniqueID>
+    <ParentID>UC-7ff3f897-d20d-4917-906b-d61da45fcf60</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-7b4108d6-db10-4bc0-a458-dc4e5615947b</UniqueID>
+    <ParentID>UC-a95cd9f5-e62c-4911-9dd4-41f7ed22c972</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-bd1da46c-09db-45b8-abf8-7a474eec7581</UniqueID>
+    <ParentID>UC-a81116f9-7555-402e-a72a-d8d2afd93725</ParentID>
+  </Scenario>
   <Requirement>
     <UniqueID>REQ-f3aadbd3-925e-43bb-a935-f82002499246</UniqueID>
     <UserID>REQ-1</UserID>
@@ -975,6 +1385,1614 @@
     <DateModified>2018-05-14T20:25:48.4584462+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
+  <Step>
+    <UniqueID>ST-c470f4c0-fcfb-4c61-855d-fd5c790857ab</UniqueID>
+    <ParentID>MSS-01ee497b-f416-4675-b339-f6e6f6a4898d</ParentID>
+    <Description>Open homepage</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Open homepage\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-86a621ee-dd91-4dd0-915a-02fe887f19d0</UniqueID>
+    <ParentID>MSS-01ee497b-f416-4675-b339-f6e6f6a4898d</ParentID>
+    <Description>View Demo</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 View Demo\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-ea64dd87-140f-42e4-a6e1-bccc15fd1be9</UniqueID>
+    <ParentID>MSS-01ee497b-f416-4675-b339-f6e6f6a4898d</ParentID>
+    <Description>Select 'Try it out'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Select 'Try it out'\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-4da0a73c-c246-469f-8c4d-f875b6b39c68</UniqueID>
+    <ParentID>MSS-27c6e5b4-afd8-40e1-a8e3-dfe4d44cff8a</ParentID>
+    <Description>Open register page</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Open register page\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-2cd399db-5739-477a-84c9-1057f49e8ae4</UniqueID>
+    <ParentID>MSS-27c6e5b4-afd8-40e1-a8e3-dfe4d44cff8a</ParentID>
+    <Description>Enter data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Enter data\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-f760dd0b-a66e-4999-a949-f80aaed86362</UniqueID>
+    <ParentID>MSS-27c6e5b4-afd8-40e1-a8e3-dfe4d44cff8a</ParentID>
+    <Description>Data is valid</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Data is valid\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-9f8bfbc9-2cb0-455e-8ab0-743d0c88af82</UniqueID>
+    <ParentID>MSS-27c6e5b4-afd8-40e1-a8e3-dfe4d44cff8a</ParentID>
+    <Description>User gets created</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  gets created\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-0db05a38-d041-4f99-ab1c-7198d5e747a0</UniqueID>
+    <ParentID>X-68b177d8-f921-411e-99a3-41b66ac26e6c</ParentID>
+    <Description>Guest gets asked to provide valid data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Guest\cf2\ulnone  gets asked to provide valid data\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-4036cebe-ba30-4657-95ef-9facfec600e2</UniqueID>
+    <ParentID>X-68b177d8-f921-411e-99a3-41b66ac26e6c</ParentID>
+    <Description>Guest enters valid data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Guest\cf2\ulnone  enters valid data\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-71bfcc0e-9e38-4e32-b5bc-8c7c9ea92fed</UniqueID>
+    <ParentID>X-68b177d8-f921-411e-99a3-41b66ac26e6c</ParentID>
+    <Description>The use case continues at step 4.</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 The use case continues at step 4.\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-38200d12-c93e-46e3-852c-ef5cb28a4ddc</UniqueID>
+    <ParentID>MSS-180d64e3-fc4a-45d9-892e-eb95f934d1cd</ParentID>
+    <Description>Open register page</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Open register page\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-bf72b7d9-e9fb-4578-b46b-8438fe71675c</UniqueID>
+    <ParentID>MSS-180d64e3-fc4a-45d9-892e-eb95f934d1cd</ParentID>
+    <Description>Choose social media type</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Choose social media type\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-37fd4349-0e4f-4a8d-a960-17527f8d5132</UniqueID>
+    <ParentID>MSS-180d64e3-fc4a-45d9-892e-eb95f934d1cd</ParentID>
+    <Description>Login with social media</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Login with social media\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-c8a31e38-d161-4825-82f8-a78273643e55</UniqueID>
+    <ParentID>X-d8337593-c1ad-4b70-8fc2-7dfad87a0385</ParentID>
+    <Description>Guest clicks back</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Guest\cf2\ulnone  clicks back\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-c6a6340d-a906-4e12-a512-47bfe5a0086b</UniqueID>
+    <ParentID>X-d8337593-c1ad-4b70-8fc2-7dfad87a0385</ParentID>
+    <Description>Guest goes to homepage</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Guest\cf2\ulnone  goes to homepage\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-f59f18bb-b823-4463-8b14-1796decbebc1</UniqueID>
+    <ParentID>MSS-180d64e3-fc4a-45d9-892e-eb95f934d1cd</ParentID>
+    <Description>User gets created</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  gets created\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-39d5e585-575c-44c4-bc18-fce140a313ab</UniqueID>
+    <ParentID>MSS-df961986-55c0-4721-a0ae-18d287e070e2</ParentID>
+    <Description>Open login page</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Open login page\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-ac3ea6a7-8c99-409c-8d81-524e3b8a7516</UniqueID>
+    <ParentID>MSS-df961986-55c0-4721-a0ae-18d287e070e2</ParentID>
+    <Description>Enter data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Enter data\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-46ee5877-6678-4e9c-9758-ef4ddf7be26e</UniqueID>
+    <ParentID>MSS-df961986-55c0-4721-a0ae-18d287e070e2</ParentID>
+    <Description>Data is valid</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Data is valid\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-9a957c56-5d29-45a5-83e5-98956d183824</UniqueID>
+    <ParentID>X-4752dbdd-12f7-4988-a00e-593570afff2d</ParentID>
+    <Description>User gets asked to provide valid data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  gets asked to provide valid data\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-dfe1e6f4-4e95-4e74-93ed-8dcb8eb3c897</UniqueID>
+    <ParentID>X-4752dbdd-12f7-4988-a00e-593570afff2d</ParentID>
+    <Description>User enters valid data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  enters valid data\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-ec681fe1-c28d-48ad-9799-f6cc6890c4ad</UniqueID>
+    <ParentID>X-4752dbdd-12f7-4988-a00e-593570afff2d</ParentID>
+    <Description>The use case continues at step 4.</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 The use case continues at step 4.\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-559a3133-7747-405a-9db1-15b2120abafe</UniqueID>
+    <ParentID>MSS-df961986-55c0-4721-a0ae-18d287e070e2</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-8723fa3b-8592-4e21-b2e2-6f5f3ac6a9ce</UniqueID>
+    <ParentID>MSS-69208702-9856-4524-9181-561910dca1ba</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-0b760737-cc62-4955-9cd9-f5de3338c6a4</UniqueID>
+    <ParentID>MSS-69208702-9856-4524-9181-561910dca1ba</ParentID>
+    <Description>Selects a trip from his profile page</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\f0\fs20 Selects a trip from his profile\cf1  page\cf0\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-d3959acd-a790-4522-bc70-8a9960b1b85c</UniqueID>
+    <ParentID>MSS-69208702-9856-4524-9181-561910dca1ba</ParentID>
+    <Description>Selects 'checklist'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects 'checklist'\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-147d49ca-aae7-4f73-9a4c-76286fc887ed</UniqueID>
+    <ParentID>MSS-69208702-9856-4524-9181-561910dca1ba</ParentID>
+    <Description>Clicks 'create checklist'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'create checklist'\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-50747083-5cb7-4bf6-a43c-0cc2098a72a7</UniqueID>
+    <ParentID>MSS-69208702-9856-4524-9181-561910dca1ba</ParentID>
+    <Description>A new list gets created</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 A new list gets created\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-716a031b-86ed-40b4-ba49-6d6220441303</UniqueID>
+    <ParentID>MSS-69208702-9856-4524-9181-561910dca1ba</ParentID>
+    <Description>Enters name of the list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Enters name of the list\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-ff5af393-a346-4d24-b86d-4abefec2c7d8</UniqueID>
+    <ParentID>MSS-afec2fc0-f6c6-4024-9918-e8b08d8b701b</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-75220293-cbfd-4e20-beaf-307edf3566e3</UniqueID>
+    <ParentID>MSS-afec2fc0-f6c6-4024-9918-e8b08d8b701b</ParentID>
+    <Description>Selects a trip from his trips list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects a trip from his trips list\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-9a918513-a98a-45e3-b20a-a3af1dc5886d</UniqueID>
+    <ParentID>MSS-afec2fc0-f6c6-4024-9918-e8b08d8b701b</ParentID>
+    <Description>Goes to the trip's page</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Goes to the trip's page\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-8347aa2a-a797-4a0f-aeda-badc02c18487</UniqueID>
+    <ParentID>MSS-afec2fc0-f6c6-4024-9918-e8b08d8b701b</ParentID>
+    <Description>Selects one of the services he used</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects one of the services he used\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-5748af02-fdba-43fc-b7cc-cfed6fc60c4c</UniqueID>
+    <ParentID>MSS-afec2fc0-f6c6-4024-9918-e8b08d8b701b</ParentID>
+    <Description>Clicks 'send feedback'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'send feedback'\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-aaf16777-d76f-496e-b520-43c2aab4efa7</UniqueID>
+    <ParentID>MSS-afec2fc0-f6c6-4024-9918-e8b08d8b701b</ParentID>
+    <Description>Fills the form</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Fills the form\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-ae883bdd-2bbb-4f3f-961c-3cce21c33f67</UniqueID>
+    <ParentID>MSS-afec2fc0-f6c6-4024-9918-e8b08d8b701b</ParentID>
+    <Description>Click send</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Click send\par
+}
+</RichDescription>
+    <Sequence>6</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-a8dc71e5-3672-4342-8030-e50cbdcab1a5</UniqueID>
+    <ParentID>MSS-cf2de53f-b915-4e3b-bb37-cd7fb52f5bad</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-f1a33a16-e1ad-47e8-9f3f-095ebd59ddf9</UniqueID>
+    <ParentID>MSS-cf2de53f-b915-4e3b-bb37-cd7fb52f5bad</ParentID>
+    <Description>Clicks on create trip</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks on create trip\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-dccd6d6d-fab3-451c-bfcd-d20a7bef6d27</UniqueID>
+    <ParentID>MSS-cf2de53f-b915-4e3b-bb37-cd7fb52f5bad</ParentID>
+    <Description>Selects new blank trip</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects new blank trip\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-fa82434a-65d9-41ea-a76f-0ccc66e3648f</UniqueID>
+    <ParentID>MSS-cf2de53f-b915-4e3b-bb37-cd7fb52f5bad</ParentID>
+    <Description>Fills required data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Fills required data\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-c32f6ae9-090e-4fba-979e-8c5cc6fe2ad1</UniqueID>
+    <ParentID>X-6d439ea0-0aa0-4f9e-8558-75947a831aae</ParentID>
+    <Description>Modifies data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Modifies data\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-3fa6f773-6ee1-4136-900c-8bb28a5595e0</UniqueID>
+    <ParentID>MSS-cf2de53f-b915-4e3b-bb37-cd7fb52f5bad</ParentID>
+    <Description>Clicks create</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Clicks create\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-490ed4b1-558a-478d-aeb3-f8a2486e5154</UniqueID>
+    <ParentID>X-6d439ea0-0aa0-4f9e-8558-75947a831aae</ParentID>
+    <Description>The use case continues at step 5.</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 The use case continues at step 5.\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-39fdfb59-52ae-4db2-8007-e86677acec36</UniqueID>
+    <ParentID>MSS-510e2dd5-2146-4242-a1be-8f5c1b0d17b1</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-f885d975-84f3-480d-baa7-80ca14acd5b1</UniqueID>
+    <ParentID>MSS-510e2dd5-2146-4242-a1be-8f5c1b0d17b1</ParentID>
+    <Description>Selects an unfinished trip from his list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects an unfinished trip from his list\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-55c5a066-383e-4f33-9df5-a8e0ef233269</UniqueID>
+    <ParentID>MSS-510e2dd5-2146-4242-a1be-8f5c1b0d17b1</ParentID>
+    <Description>Clicks on 'travelers' to go to list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks on 'travelers' to go to list\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-a9c14681-eb71-49ec-8818-53e0e9502a4f</UniqueID>
+    <ParentID>MSS-510e2dd5-2146-4242-a1be-8f5c1b0d17b1</ParentID>
+    <Description>Clicks button to send invite</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks button to send invite\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-83b00a22-47f2-4f24-a749-958166134f01</UniqueID>
+    <ParentID>MSS-510e2dd5-2146-4242-a1be-8f5c1b0d17b1</ParentID>
+    <Description>Chooses other User/s</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\f0\fs20 Chooses other \cf1\ul User\cf2\ulnone /s\cf0\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-1eb30cf6-31a2-4b85-8a5c-a008c6ed64ca</UniqueID>
+    <ParentID>MSS-510e2dd5-2146-4242-a1be-8f5c1b0d17b1</ParentID>
+    <Description>Sends invite/s</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Sends invite/s\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-7b8930fd-b7b2-4cee-b931-01673f7710b9</UniqueID>
+    <ParentID>MSS-938f1890-74b1-4a0e-89d4-904a63d76943</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-3e635663-6918-4992-8ff7-fcdebcc690a4</UniqueID>
+    <ParentID>MSS-938f1890-74b1-4a0e-89d4-904a63d76943</ParentID>
+    <Description>Goes to predefined trips list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Goes to predefined trips list\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-6ee9b831-19bb-4750-aea7-b2b176c64eb8</UniqueID>
+    <ParentID>MSS-aef6b8c8-77df-40c0-bb25-64911da9ea36</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-d73903c9-fa16-45cc-b8f9-494b82a6bec3</UniqueID>
+    <ParentID>MSS-aef6b8c8-77df-40c0-bb25-64911da9ea36</ParentID>
+    <Description>Selects an unfinished trip from his list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects an unfinished trip from his list\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-fa861c10-2cd0-4b65-a6c1-465a1b740264</UniqueID>
+    <ParentID>MSS-aef6b8c8-77df-40c0-bb25-64911da9ea36</ParentID>
+    <Description>Clicks on 'tasks' to go to list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks on 'tasks' to go to list\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-3c53e322-a980-4b2b-8b3d-ed34dec76076</UniqueID>
+    <ParentID>MSS-aef6b8c8-77df-40c0-bb25-64911da9ea36</ParentID>
+    <Description>Clicks button to add task</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks button to add task\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-582b1265-3720-44af-b528-b2ea10b684ed</UniqueID>
+    <ParentID>MSS-aef6b8c8-77df-40c0-bb25-64911da9ea36</ParentID>
+    <Description>Fills data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Fills data\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-31e7150e-d984-4704-a580-b7eeb6b72435</UniqueID>
+    <ParentID>MSS-aef6b8c8-77df-40c0-bb25-64911da9ea36</ParentID>
+    <Description>Clicks 'add task'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'add task'\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-83282cd7-cb51-4f02-ad2a-18570012f51a</UniqueID>
+    <ParentID>MSS-b683ba33-6dfd-472a-a855-8e92d84d5ff7</ParentID>
+    <Description>Navigatio gets request for analysis</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Navigatio\cf2\ulnone  gets request for analysis\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-ab3d1183-2cbf-48eb-abfd-d39654c104b6</UniqueID>
+    <ParentID>MSS-b683ba33-6dfd-472a-a855-8e92d84d5ff7</ParentID>
+    <Description>Analyzes trip</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Analyzes trip\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-7ade1dd7-c62c-43c5-8101-3155273914b0</UniqueID>
+    <ParentID>MSS-b683ba33-6dfd-472a-a855-8e92d84d5ff7</ParentID>
+    <Description>Sends data back to the User</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\f0\fs20 Sends data back to the \cf1\ul User\cf0\ulnone\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-834e60bf-f41c-458e-994c-29106a2be3c1</UniqueID>
+    <ParentID>MSS-941eb5ca-d029-4c5a-9dd1-020c4bcae9fd</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-2bcbcd2c-74ce-4c53-a478-40f65f8da827</UniqueID>
+    <ParentID>MSS-941eb5ca-d029-4c5a-9dd1-020c4bcae9fd</ParentID>
+    <Description>Selects an unfinished trip from his list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects an unfinished trip from his list\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-c124263c-0caf-4ff0-92cb-8142335fbe43</UniqueID>
+    <ParentID>MSS-941eb5ca-d029-4c5a-9dd1-020c4bcae9fd</ParentID>
+    <Description>Clicks on 'routes' to go to list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks on 'routes' to go to list\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-b260862e-9185-44b5-b3e5-ea9240344857</UniqueID>
+    <ParentID>MSS-941eb5ca-d029-4c5a-9dd1-020c4bcae9fd</ParentID>
+    <Description>Clicks button to add route</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks button to add route\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-5b624d85-fe73-4e28-8cdb-e951c04be3c7</UniqueID>
+    <ParentID>MSS-941eb5ca-d029-4c5a-9dd1-020c4bcae9fd</ParentID>
+    <Description>Selects waypoints on the map</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects waypoints on the map\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-f3376415-518e-4bcf-938a-4fabd2f4ef87</UniqueID>
+    <ParentID>MSS-941eb5ca-d029-4c5a-9dd1-020c4bcae9fd</ParentID>
+    <Description>Clicks 'add route'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'add route'\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-624482b0-c699-49aa-bcdb-a330585b0ebd</UniqueID>
+    <ParentID>MSS-748d9675-c217-4ec7-bdd6-4e9e8c9a9655</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-5c4f08a5-7f48-4d5e-9249-9f1db096be75</UniqueID>
+    <ParentID>MSS-748d9675-c217-4ec7-bdd6-4e9e8c9a9655</ParentID>
+    <Description>Selects an unfinished trip from his list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects an unfinished trip from his list\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-097fc9e2-dcf0-48fd-b18b-b41a8ee2879f</UniqueID>
+    <ParentID>MSS-748d9675-c217-4ec7-bdd6-4e9e8c9a9655</ParentID>
+    <Description>Clicks on 'routes' to go to list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks on 'routes' to go to list\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-42655e1b-a828-4d97-94fb-8760a6aab1e0</UniqueID>
+    <ParentID>MSS-748d9675-c217-4ec7-bdd6-4e9e8c9a9655</ParentID>
+    <Description>Clicks button to add route</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks button to add route\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-5db97a33-338d-42aa-9be5-98885bbb6146</UniqueID>
+    <ParentID>MSS-748d9675-c217-4ec7-bdd6-4e9e8c9a9655</ParentID>
+    <Description>Selects start and end points</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects start and end points\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-0875ea44-6bd6-4bd3-ae28-789e18182e81</UniqueID>
+    <ParentID>MSS-748d9675-c217-4ec7-bdd6-4e9e8c9a9655</ParentID>
+    <Description>Clicks 'add route'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'add route'\par
+}
+</RichDescription>
+    <Sequence>6</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-0c5d6703-88f4-4d4a-836c-2b5413c72dbc</UniqueID>
+    <ParentID>MSS-748d9675-c217-4ec7-bdd6-4e9e8c9a9655</ParentID>
+    <Description>Clicks 'generate route'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'generate route'\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-9f7489fa-4da8-4f3e-a2f9-14700b3deacb</UniqueID>
+    <ParentID>MSS-8bb1bcce-3c2b-4121-bd86-6d4a68f2a6c3</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-11bee42d-94b1-4e6f-be01-408a502ca9ec</UniqueID>
+    <ParentID>MSS-8bb1bcce-3c2b-4121-bd86-6d4a68f2a6c3</ParentID>
+    <Description>Selects a trip from his list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects a trip from his list\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-29c4de36-fcbe-443c-8b02-18eae37544a9</UniqueID>
+    <ParentID>MSS-8bb1bcce-3c2b-4121-bd86-6d4a68f2a6c3</ParentID>
+    <Description>Clicks on 'publish predefined trip'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks on 'publish predefined trip'\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-5b655bbe-4c0d-442b-98b4-ae9a7f452b02</UniqueID>
+    <ParentID>MSS-8bb1bcce-3c2b-4121-bd86-6d4a68f2a6c3</ParentID>
+    <Description>Fills data to describe trip</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Fills data to describe trip\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-507c2ccd-5a0e-4f4b-9e7c-1eaacfd3d482</UniqueID>
+    <ParentID>MSS-8bb1bcce-3c2b-4121-bd86-6d4a68f2a6c3</ParentID>
+    <Description>Clicks 'publish'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'publish'\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-375e9b23-be5a-495b-ba53-4e36d705668c</UniqueID>
+    <ParentID>MSS-27aea7e7-2d3b-4fc6-ad7d-d69f848334d4</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-1ecf60c9-3e59-42f1-8844-a0ef37bd721c</UniqueID>
+    <ParentID>MSS-27aea7e7-2d3b-4fc6-ad7d-d69f848334d4</ParentID>
+    <Description>Selects a trip from the site list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects a trip from the site list\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-b5022ccc-a4e9-451b-91f8-19a27e3db77a</UniqueID>
+    <ParentID>MSS-27aea7e7-2d3b-4fc6-ad7d-d69f848334d4</ParentID>
+    <Description>Clicks on 'save a personal copy of the trip'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks on 'save a personal copy of the trip'\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-89e8fb6f-93e5-4aba-9270-aada8206d744</UniqueID>
+    <ParentID>MSS-5baa39a8-c0b4-4e30-865a-873d87724686</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-c739cbd7-8735-4eb6-9962-e26b51d7b68e</UniqueID>
+    <ParentID>MSS-5baa39a8-c0b4-4e30-865a-873d87724686</ParentID>
+    <Description>Selects a saved trip from his list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects a saved trip from his list\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-cd6757a7-2666-4cad-8496-8f2a75d420ce</UniqueID>
+    <ParentID>MSS-5baa39a8-c0b4-4e30-865a-873d87724686</ParentID>
+    <Description>Clicks on 'edit'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks on 'edit'\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-e3270cae-70d5-4280-96b6-89a2c3961a5a</UniqueID>
+    <ParentID>MSS-5baa39a8-c0b4-4e30-865a-873d87724686</ParentID>
+    <Description>Modifies and fills data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Modifies and fills data\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-92a73827-5be4-4021-93b6-40f20b0adfbf</UniqueID>
+    <ParentID>MSS-5baa39a8-c0b4-4e30-865a-873d87724686</ParentID>
+    <Description>Clicks 'save'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'save'\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-2e37d2cf-72f7-434e-9cd7-ba0144ee26cf</UniqueID>
+    <ParentID>MSS-ad949039-33de-4004-a81e-02dc682fc628</ParentID>
+    <Description>Company logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Company\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-15f5de10-4079-4965-9019-f66a029955a2</UniqueID>
+    <ParentID>MSS-ad949039-33de-4004-a81e-02dc682fc628</ParentID>
+    <Description>Goes to its profile page</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Goes to its profile page\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-277d45c8-a2d4-47cc-9cd2-9d9627ced5cc</UniqueID>
+    <ParentID>MSS-ad949039-33de-4004-a81e-02dc682fc628</ParentID>
+    <Description>Clicks 'add service'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'add service'\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-7fff4ba7-8bb5-43bd-b1cc-9e4858394f35</UniqueID>
+    <ParentID>MSS-ad949039-33de-4004-a81e-02dc682fc628</ParentID>
+    <Description>Fills data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Fills data\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-b1283694-0951-4a4e-8c18-5e053d073911</UniqueID>
+    <ParentID>MSS-ad949039-33de-4004-a81e-02dc682fc628</ParentID>
+    <Description>Clicks 'send'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'send'\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-dd0b7c17-e5bd-4990-bda4-9327c4580d69</UniqueID>
+    <ParentID>MSS-ad949039-33de-4004-a81e-02dc682fc628</ParentID>
+    <Description>Waits for approval</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Waits for approval\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-347643e6-0b0c-42e2-8d46-06aa2eb1e641</UniqueID>
+    <ParentID>MSS-ad949039-33de-4004-a81e-02dc682fc628</ParentID>
+    <Description>Service gets approved</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Service gets approved\par
+}
+</RichDescription>
+    <Sequence>6</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-614bec23-a34b-429b-9802-f85bacdb5f47</UniqueID>
+    <ParentID>MSS-756d3f39-7987-4c12-a682-7092f250b472</ParentID>
+    <Description>Company logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Company\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-ea782401-9e02-492c-a11e-18914ca0e389</UniqueID>
+    <ParentID>MSS-756d3f39-7987-4c12-a682-7092f250b472</ParentID>
+    <Description>Goes to its profile page</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Goes to its profile page\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-824e8584-b5de-4764-9f7d-8ac91b192cf0</UniqueID>
+    <ParentID>MSS-756d3f39-7987-4c12-a682-7092f250b472</ParentID>
+    <Description>Clicks 'propose partnership'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'propose partnership'\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-fa2214c1-46f5-4ccb-b93c-9da30c7dd1c9</UniqueID>
+    <ParentID>MSS-756d3f39-7987-4c12-a682-7092f250b472</ParentID>
+    <Description>Fills data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Fills data\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-e1f3c6a9-bfd8-4d78-93c5-3d3b44ff9cea</UniqueID>
+    <ParentID>MSS-756d3f39-7987-4c12-a682-7092f250b472</ParentID>
+    <Description>Clicks 'propose'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'propose'\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-cf3e1748-0977-4b2e-89ba-0f5030bea8dd</UniqueID>
+    <ParentID>MSS-756d3f39-7987-4c12-a682-7092f250b472</ParentID>
+    <Description>Waits for approval</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Waits for approval\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-831b1a48-bf20-47ac-9b09-f886c556f25a</UniqueID>
+    <ParentID>MSS-756d3f39-7987-4c12-a682-7092f250b472</ParentID>
+    <Description>Partnership gets approved and added</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Partnership gets approved and added\par
+}
+</RichDescription>
+    <Sequence>6</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-71fd1e90-bafa-4376-97a2-cef9082627b8</UniqueID>
+    <ParentID>MSS-4fc279b9-ac1a-4da6-86ca-e719238d03d9</ParentID>
+    <Description>Navigatio analyzes User's profile</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Navigatio\cf2\ulnone  analyzes \cf1\ul User\cf2\ulnone 's profile\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-0ade76bb-4b74-42d7-a947-5cc12a76ef9b</UniqueID>
+    <ParentID>MSS-4fc279b9-ac1a-4da6-86ca-e719238d03d9</ParentID>
+    <Description>Displays data about recommended stuff</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Displays data about recommended stuff\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-0635ba05-df34-4bf1-873f-0c1a4d984527</UniqueID>
+    <ParentID>MSS-03461e52-8842-480a-a329-80e76f749078</ParentID>
+    <Description>Navigatio gets request to convert currency</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Navigatio\cf2\ulnone  gets request to convert currency\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-cf3779b8-bbf4-4851-9b8b-24b0b12afe32</UniqueID>
+    <ParentID>MSS-03461e52-8842-480a-a329-80e76f749078</ParentID>
+    <Description>Checks the current convertion rate</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Checks the current convertion rate\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-75eed085-18ce-4db5-901e-116ac86074e9</UniqueID>
+    <ParentID>MSS-03461e52-8842-480a-a329-80e76f749078</ParentID>
+    <Description>Does the math</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Does the math\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-88035e9b-ee4f-4f7b-8219-75518bc300e4</UniqueID>
+    <ParentID>MSS-03461e52-8842-480a-a329-80e76f749078</ParentID>
+    <Description>Returns the result to the User</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;}
+\viewkind4\uc1\pard\f0\fs20 Returns the result to the \cf1\ul User\cf0\ulnone\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-cc165067-b283-4491-91b4-c6da027d5c08</UniqueID>
+    <ParentID>MSS-2b938c2d-70d0-453f-9fa2-24182351d598</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-93cc59d5-1f49-47e7-b41f-9925c14c7d3f</UniqueID>
+    <ParentID>MSS-2b938c2d-70d0-453f-9fa2-24182351d598</ParentID>
+    <Description>Goes to his profile page</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\f0\fs20 Goes to his \cf1 profile page\cf0\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-099553ff-4cd3-464e-9b6b-bd328da6ce95</UniqueID>
+    <ParentID>MSS-2b938c2d-70d0-453f-9fa2-24182351d598</ParentID>
+    <Description>Click on 'export calendar'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Click on 'export calendar'\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-69b46098-f1b4-4c99-bff4-868099c3c870</UniqueID>
+    <ParentID>MSS-2b938c2d-70d0-453f-9fa2-24182351d598</ParentID>
+    <Description>Chooses format</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Chooses format\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-95709d24-999e-4d5f-994f-f3eaba55ce90</UniqueID>
+    <ParentID>MSS-2b938c2d-70d0-453f-9fa2-24182351d598</ParentID>
+    <Description>Clicks 'export'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'export'\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-3d9fecc8-f4e2-4c21-928c-ee09955ca63d</UniqueID>
+    <ParentID>MSS-2b938c2d-70d0-453f-9fa2-24182351d598</ParentID>
+    <Description>Saves file</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Saves file\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-9034d223-0a85-447e-91f8-d1c25c19f12e</UniqueID>
+    <ParentID>MSS-8e669ffe-96f9-475d-bc0c-fe7f24870414</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-71556a01-0900-45e9-8c88-de9bacd13f04</UniqueID>
+    <ParentID>MSS-8e669ffe-96f9-475d-bc0c-fe7f24870414</ParentID>
+    <Description>Goes to his profile page</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\f0\fs20 Goes to his \cf1 profile page\cf0\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-421b651e-9107-473a-b1a5-83a0fd88043f</UniqueID>
+    <ParentID>MSS-8e669ffe-96f9-475d-bc0c-fe7f24870414</ParentID>
+    <Description>Chooses format</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Chooses format\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-48f3b23d-5a85-4e40-80f4-415844baf3e9</UniqueID>
+    <ParentID>MSS-8e669ffe-96f9-475d-bc0c-fe7f24870414</ParentID>
+    <Description>Clicks 'export'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'export'\par
+}
+</RichDescription>
+    <Sequence>6</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-36e4f1d8-0e97-4c34-a76a-6d3bf6ca71e7</UniqueID>
+    <ParentID>MSS-8e669ffe-96f9-475d-bc0c-fe7f24870414</ParentID>
+    <Description>Saves file</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Saves file\par
+}
+</RichDescription>
+    <Sequence>7</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-d786ff9e-a8f8-4963-914d-5c58d2f783f9</UniqueID>
+    <ParentID>MSS-8e669ffe-96f9-475d-bc0c-fe7f24870414</ParentID>
+    <Description>Selects a trip from his list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects a trip from his list\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-8fd6dfab-c7a8-4bb2-96e9-fc08a7734f34</UniqueID>
+    <ParentID>MSS-8e669ffe-96f9-475d-bc0c-fe7f24870414</ParentID>
+    <Description>Clicks on 'routes' to go to list</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks on 'routes' to go to list\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-6cfb80f1-b73f-4597-a8d2-2fc076a3dd70</UniqueID>
+    <ParentID>MSS-8e669ffe-96f9-475d-bc0c-fe7f24870414</ParentID>
+    <Description>Clicks export map near a route</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks export map near a route\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-27727791-f468-4ab6-8622-0cdeaf1a6e31</UniqueID>
+    <ParentID>MSS-d71a9fa6-6503-4e3d-af6b-420beb66d566</ParentID>
+    <Description>Navigatio gets a request to calculate expenses</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Navigatio\cf2\ulnone  gets a request to calculate expenses\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-1e985a56-9c66-47b0-b34a-15ab9b83acdd</UniqueID>
+    <ParentID>MSS-d71a9fa6-6503-4e3d-af6b-420beb66d566</ParentID>
+    <Description>Analyzes trip and gets payment data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Analyzes trip and gets payment data\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-78c811f6-1559-40a1-adb4-c0a24277037b</UniqueID>
+    <ParentID>MSS-d71a9fa6-6503-4e3d-af6b-420beb66d566</ParentID>
+    <Description>Sends the User the payment data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\f0\fs20 Sends the \cf1\ul User\cf2\ulnone  the payment data\cf0\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-fea18162-b26d-47ea-963f-d8e70c64a4d1</UniqueID>
+    <ParentID>MSS-7b4108d6-db10-4bc0-a458-dc4e5615947b</ParentID>
+    <Description>User logs in</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  logs in\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-9abe5534-b5f9-4fe1-be7b-ed469b8acec9</UniqueID>
+    <ParentID>MSS-7b4108d6-db10-4bc0-a458-dc4e5615947b</ParentID>
+    <Description>Clicks on one of his trips</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks on one of his trips\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-1a5b04ab-151c-4f01-82d9-4be24700dfcc</UniqueID>
+    <ParentID>MSS-7b4108d6-db10-4bc0-a458-dc4e5615947b</ParentID>
+    <Description>Clicks 'pay expenses'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Clicks 'pay expenses'\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-4cc242aa-805a-4079-92bb-2c4b4cf4f2f2</UniqueID>
+    <ParentID>MSS-7b4108d6-db10-4bc0-a458-dc4e5615947b</ParentID>
+    <Description>Fills required data</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Fills required data\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-e251447f-a2b6-4653-b7d6-a8fc420d7762</UniqueID>
+    <ParentID>MSS-7b4108d6-db10-4bc0-a458-dc4e5615947b</ParentID>
+    <Description>User return to Navigatio</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 User\cf2\ulnone  return to \cf1\ul Navigatio\cf2\ulnone\par
+}
+</RichDescription>
+    <Sequence>6</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-2993c2c6-3136-45da-bfda-8698d9b42c5a</UniqueID>
+    <ParentID>MSS-7b4108d6-db10-4bc0-a458-dc4e5615947b</ParentID>
+    <Description>Data is valid</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Data is valid\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-06e3869f-86e1-4e9e-830a-a75af9a6b792</UniqueID>
+    <ParentID>MSS-7b4108d6-db10-4bc0-a458-dc4e5615947b</ParentID>
+    <Description>Payment is made through banking site</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Payment is made through banking site\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-a15d8df8-df22-490d-9145-968e433f5784</UniqueID>
+    <ParentID>X-331f8701-64a6-47f7-a323-42a86dca6d1f</ParentID>
+    <Description>The use case continues at step 7.</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 The use case continues at step 7.\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-c401c71f-18bb-496f-ba1c-f9342295b5b1</UniqueID>
+    <ParentID>MSS-bd1da46c-09db-45b8-abf8-7a474eec7581</ParentID>
+    <Description>Guest or User clicks on one of the flags on the homepage</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Guest\cf2\ulnone  or \cf1\ul User\cf2\ulnone  clicks on one of the flags on the homepage\cf0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-98608626-86d5-48f4-80ae-fc63c27cd655</UniqueID>
+    <ParentID>MSS-bd1da46c-09db-45b8-abf8-7a474eec7581</ParentID>
+    <Description>Site reloads</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Site reloads\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-b34167bc-1856-42c0-8580-8af22b5210c3</UniqueID>
+    <ParentID>MSS-bd1da46c-09db-45b8-abf8-7a474eec7581</ParentID>
+    <Description>Language is changed</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Language is changed\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Extension>
+    <UniqueID>X-68b177d8-f921-411e-99a3-41b66ac26e6c</UniqueID>
+    <ParentID>ST-f760dd0b-a66e-4999-a949-f80aaed86362</ParentID>
+    <Description>Data is invalid</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Data is invalid\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-d8337593-c1ad-4b70-8fc2-7dfad87a0385</UniqueID>
+    <ParentID>ST-37fd4349-0e4f-4a8d-a960-17527f8d5132</ParentID>
+    <Description>Guest decides to cancel the operation</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 Guest\cf2\ulnone  decides to cancel the operation\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-4752dbdd-12f7-4988-a00e-593570afff2d</UniqueID>
+    <ParentID>ST-46ee5877-6678-4e9c-9758-ef4ddf7be26e</ParentID>
+    <Description>Data is invalid</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Data is invalid\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-6d439ea0-0aa0-4f9e-8558-75947a831aae</UniqueID>
+    <ParentID>ST-dccd6d6d-fab3-451c-bfcd-d20a7bef6d27</ParentID>
+    <Description>Selects 'predefined trip'</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Selects 'predefined trip'\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-dd9aa8c7-f6fc-43ea-bd13-dfdd67ad26ae</UniqueID>
+    <ParentID>ST-347643e6-0b0c-42e2-8d46-06aa2eb1e641</ParentID>
+    <Description>Service gets declined</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Service gets declined\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-ac14a705-076d-4d1d-b2f4-827b21431e6e</UniqueID>
+    <ParentID>ST-831b1a48-bf20-47ac-9b09-f886c556f25a</ParentID>
+    <Description>Partnership gets declined</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20 Partnership gets declined\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-331f8701-64a6-47f7-a323-42a86dca6d1f</UniqueID>
+    <ParentID>ST-2993c2c6-3136-45da-bfda-8698d9b42c5a</ParentID>
+    <Description>Data is invalid</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Data is invalid\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
   <UserID>
     <DefaultPrefix>UC-</DefaultPrefix>
     <NextValue>27</NextValue>

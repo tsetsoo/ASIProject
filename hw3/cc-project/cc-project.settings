@@ -94,8 +94,33 @@
   <OpenFilters />
   <ExpandedNodes>
     <string>cc-project</string>
+    <string>cc-project\View Demo</string>
+    <string>cc-project\Register</string>
+    <string>cc-project\Register with social media</string>
+    <string>cc-project\Login</string>
+    <string>cc-project\Create lists of items</string>
+    <string>cc-project\Send feedback</string>
+    <string>cc-project\Create trip</string>
+    <string>cc-project\Invite users to trip</string>
+    <string>cc-project\View predefined trips</string>
+    <string>cc-project\Add activities to trip</string>
+    <string>cc-project\Analyze trip</string>
+    <string>cc-project\Add route</string>
+    <string>cc-project\Generate route</string>
+    <string>cc-project\Publish trip scenario</string>
+    <string>cc-project\Save copy of published trip</string>
+    <string>cc-project\Modify copied trip</string>
+    <string>cc-project\Add service</string>
+    <string>cc-project\Propose partnership</string>
+    <string>cc-project\Recommend destinations</string>
+    <string>cc-project\Convert currency</string>
+    <string>cc-project\Export calendar</string>
+    <string>cc-project\Export map</string>
+    <string>cc-project\Calculate total expenses</string>
+    <string>cc-project\Pay total expenses</string>
+    <string>cc-project\Change language</string>
   </ExpandedNodes>
-  <SelectedNode>cc-project\system_cases</SelectedNode>
+  <SelectedNode>cc-project\Change language\Activity Diagram</SelectedNode>
   <Flags>
     <string>REQ-d9eedf4b-3220-44d1-97f4-7be53732566f</string>
     <string>REQ-8f2263ed-f706-46e7-a9d7-9ded6fdaf22b</string>
