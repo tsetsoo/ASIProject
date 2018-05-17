@@ -710,6 +710,14 @@
     <FileName>SequenceDiagram6.ndx</FileName>
     <Type>0</Type>
   </Diagram>
+  <Diagram>
+    <UniqueID>D-5a8cfe91-276a-4684-b836-f4e86936f281</UniqueID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Entity Relationship Model</Name>
+    <Sequence>4</Sequence>
+    <FileName>Entity Relationship Model.ndx</FileName>
+    <Type>0</Type>
+  </Diagram>
   <UCActor>
     <ParentID>UC-f8b57d98-5c91-407c-8174-64a668d7989a</ParentID>
     <ActorID>A-889bcf5f-206f-4731-bebb-f3303f6cce4e</ActorID>
