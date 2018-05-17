@@ -33,7 +33,7 @@
     <TestingSetup />
     <TestingConfigurations />
     <DateAdded>2018-05-14T22:39:11.3831975+03:00</DateAdded>
-    <DateModified>2018-05-16T22:59:44.1492298+03:00</DateModified>
+    <DateModified>2018-05-17T22:21:11.7251613+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-3dc48c3d-c3a1-49da-93ea-98c7d4ef8b08</UniqueID>
@@ -53,7 +53,7 @@
     <TestingSetup />
     <TestingConfigurations />
     <DateAdded>2018-05-14T22:39:27.4958905+03:00</DateAdded>
-    <DateModified>2018-05-16T23:07:57.7453011+03:00</DateModified>
+    <DateModified>2018-05-17T22:35:47.7406895+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-b322dad9-4738-4e42-9276-07ba7cbb41fd</UniqueID>
@@ -73,7 +73,7 @@
     <TestingSetup />
     <TestingConfigurations />
     <DateAdded>2018-05-14T22:40:05.5679505+03:00</DateAdded>
-    <DateModified>2018-05-16T23:11:30.9151369+03:00</DateModified>
+    <DateModified>2018-05-17T22:27:18.441871+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-7ed6d874-6d86-4b86-9cd9-6572e5ae902a</UniqueID>
@@ -93,7 +93,7 @@
     <Sequence>4</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:40:58.7514539+03:00</DateAdded>
-    <DateModified>2018-05-16T23:12:22.8674167+03:00</DateModified>
+    <DateModified>2018-05-17T22:39:53.3635851+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-a27ebe4c-2c39-412c-ba35-3c89607c38d2</UniqueID>
@@ -303,7 +303,7 @@
     <Sequence>20</Sequence>
     <Priority>1</Priority>
     <DateAdded>2018-05-14T22:51:42.2383834+03:00</DateAdded>
-    <DateModified>2018-05-16T23:32:44.9312392+03:00</DateModified>
+    <DateModified>2018-05-17T22:57:38.5043938+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-87512679-8ff9-4c8d-a35c-9385aa1465d6</UniqueID>
@@ -373,7 +373,7 @@
     <TestingSetup />
     <TestingConfigurations />
     <DateAdded>2018-05-14T22:52:51.6064434+03:00</DateAdded>
-    <DateModified>2018-05-16T23:37:04.8226048+03:00</DateModified>
+    <DateModified>2018-05-17T22:52:55.6145641+03:00</DateModified>
   </UseCase>
   <UseCase>
     <UniqueID>UC-a81116f9-7555-402e-a72a-d8d2afd93725</UniqueID>
@@ -420,6 +420,15 @@
     <Sequence>3</Sequence>
     <DateAdded>2018-05-14T22:41:41.2653567+03:00</DateAdded>
     <DateModified>2018-05-14T22:41:45.8029111+03:00</DateModified>
+  </Actor>
+  <Actor>
+    <UniqueID>A-81111c32-5d0a-411f-a0dd-1bb27eb93718</UniqueID>
+    <UserID>A-5</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Customer</Name>
+    <Sequence>4</Sequence>
+    <DateAdded>2018-05-17T22:12:43.4650912+03:00</DateAdded>
+    <DateModified>2018-05-17T22:12:56.101995+03:00</DateModified>
   </Actor>
   <Diagram>
     <UniqueID>D-02c2ce8e-e55f-46c8-ace2-c7da10b62f6f</UniqueID>
@@ -652,6 +661,54 @@
     <Sequence>0</Sequence>
     <FileName>ChangeLanguageActivityDiagram.ndx</FileName>
     <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-648a66a3-1477-4c24-82fe-315a1eae66ae</UniqueID>
+    <ParentID>UC-f8b57d98-5c91-407c-8174-64a668d7989a</ParentID>
+    <Name>SequenceDiagram</Name>
+    <Sequence>1</Sequence>
+    <FileName>SequenceDiagram.ndx</FileName>
+    <Type>0</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-1333ce34-c293-49fa-822a-30fd78b3a9d3</UniqueID>
+    <ParentID>UC-b322dad9-4738-4e42-9276-07ba7cbb41fd</ParentID>
+    <Name>SequenceDiagram</Name>
+    <Sequence>1</Sequence>
+    <FileName>SequenceDiagram2.ndx</FileName>
+    <Type>0</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-5c01d155-ea11-48b2-a979-178efbf1b63a</UniqueID>
+    <ParentID>UC-3dc48c3d-c3a1-49da-93ea-98c7d4ef8b08</ParentID>
+    <Name>SequenceDiagram</Name>
+    <Sequence>1</Sequence>
+    <FileName>SequenceDiagram3.ndx</FileName>
+    <Type>0</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-ae27aa79-525e-4dae-8ea4-dee0262d9ca8</UniqueID>
+    <ParentID>UC-260a6a61-345e-43f8-83db-6fec54965b5b</ParentID>
+    <Name>SequenceDiagram</Name>
+    <Sequence>1</Sequence>
+    <FileName>SequenceDiagram4.ndx</FileName>
+    <Type>0</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-84a0a0f8-e71d-4897-98f8-f5877eda3aae</UniqueID>
+    <ParentID>UC-a95cd9f5-e62c-4911-9dd4-41f7ed22c972</ParentID>
+    <Name>SequenceDiagram</Name>
+    <Sequence>1</Sequence>
+    <FileName>SequenceDiagram5.ndx</FileName>
+    <Type>0</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-1ce8d221-e8ec-47bc-bb5d-1d338b914bbf</UniqueID>
+    <ParentID>UC-bd8f0328-2538-4db8-8508-775fa9c9fd29</ParentID>
+    <Name>SequenceDiagram</Name>
+    <Sequence>1</Sequence>
+    <FileName>SequenceDiagram6.ndx</FileName>
+    <Type>0</Type>
   </Diagram>
   <UCActor>
     <ParentID>UC-f8b57d98-5c91-407c-8174-64a668d7989a</ParentID>
@@ -2999,7 +3056,7 @@
   </UserID>
   <UserID>
     <DefaultPrefix>A-</DefaultPrefix>
-    <NextValue>5</NextValue>
+    <NextValue>6</NextValue>
   </UserID>
   <UserID>
     <DefaultPrefix>REQ-</DefaultPrefix>
