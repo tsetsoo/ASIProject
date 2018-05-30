@@ -970,7 +970,13 @@
     <UniqueID>REQ-f3aadbd3-925e-43bb-a935-f82002499246</UniqueID>
     <UserID>REQ-1</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Контакт и обратна връзка на потребителите с фирмите, предлагащи услуги</Name>
+    <Name>Контакти на фирми</Name>
+    <Description>Предоставяне на контакти на фирмите, предлащи услуги, на потребителите</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'cf\'f0\'e5\'e4\'ee\'f1\'f2\'e0\'e2\'ff\'ed\'e5 \'ed\'e0 \'ea\'ee\'ed\'f2\'e0\'ea\'f2\'e8 \'ed\'e0 \'f4\'e8\'f0\'ec\'e8\'f2\'e5, \'ef\'f0\'e5\'e4\'eb\'e0\'f9\'e8 \'f3\'f1\'eb\'f3\'e3\'e8, \'ed\'e0 \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb\'e8\'f2\'e5\f1\par
+}
+</RichDescription>
     <Sequence>0</Sequence>
     <Type>Functional</Type>
     <Priority>1</Priority>
@@ -979,14 +985,20 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T19:58:15.4393267+03:00</DateModified>
+    <DateModified>2018-05-31T01:00:08.1556439+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-a6887fcf-1088-401b-86ea-20edf8bcf933</UniqueID>
     <UserID>REQ-2</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Интеграция със социални мрежи(Facebook, Instragram)</Name>
+    <Name>Интеграция със социални мрежи</Name>
+    <Description>Интеграция със социалните мрежи Facebook, Instragram за аутентикация и споделяне на планове и пътувания</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'c8\'ed\'f2\'e5\'e3\'f0\'e0\'f6\'e8\'ff \'f1\'fa\'f1 \'f1\'ee\'f6\'e8\'e0\'eb\'ed\'e8\'f2\'e5 \'ec\'f0\'e5\'e6\'e8 Facebook, Instragram \'e7\'e0 \'e0\'f3\'f2\'e5\'ed\'f2\'e8\'ea\'e0\'f6\'e8\'ff \'e8 \'f1\'ef\'ee\'e4\'e5\'eb\'ff\'ed\'e5 \'ed\'e0 \'ef\'eb\'e0\'ed\'ee\'e2\'e5 \'e8 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e8\'ff\f1\par
+}
+</RichDescription>
     <Sequence>1</Sequence>
     <Type>Functional</Type>
     <Priority>3</Priority>
@@ -995,14 +1007,20 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:56:53.3274239+03:00</DateModified>
+    <DateModified>2018-05-31T01:01:16.5181992+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-87ee7a9d-b4b2-44ed-8d0e-e9e9afe5ac69</UniqueID>
     <UserID>REQ-3</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Общо пътуване за много хора, но то да може да се конфигурира индивидуално за всеки от пътуващите</Name>
+    <Name>Общо пътуване</Name>
+    <Description>Общо пътуване за много хора</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'ce\'e1\'f9\'ee \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5 \'e7\'e0 \'ec\'ed\'ee\'e3\'ee \'f5\'ee\'f0\'e0\f1\par
+}
+</RichDescription>
     <Sequence>2</Sequence>
     <Type>Functional</Type>
     <Priority>2</Priority>
@@ -1011,15 +1029,21 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:53:54.2196326+03:00</DateModified>
+    <DateModified>2018-05-31T01:01:57.5605715+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-32548cde-5e41-4e60-9c41-b1078ed3480e</UniqueID>
     <UserID>REQ-4</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Съхраняване на билети, резервации без да е нужен достъп до интернет</Name>
-    <Sequence>3</Sequence>
+    <Name>Оффлайн билети</Name>
+    <Description>Съхраняване на билети резервации на мобилен телефон, без да е нужен достъп до интернет</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d1\'fa\'f5\'f0\'e0\'ed\'ff\'e2\'e0\'ed\'e5 \'ed\'e0 \'e1\'e8\'eb\'e5\'f2\'e8 \'f0\'e5\'e7\'e5\'f0\'e2\'e0\'f6\'e8\'e8 \'ed\'e0 \'ec\'ee\'e1\'e8\'eb\'e5\'ed \'f2\'e5\'eb\'e5\'f4\'ee\'ed, \'e1\'e5\'e7 \'e4\'e0 \'e5 \'ed\'f3\'e6\'e5\'ed \'e4\'ee\'f1\'f2\'fa\'ef \'e4\'ee \'e8\'ed\'f2\'e5\'f0\'ed\'e5\'f2\f1\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
     <Type>Functional</Type>
     <Priority>2</Priority>
     <Source />
@@ -1027,15 +1051,23 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:56:09.3018511+03:00</DateModified>
+    <DateModified>2018-05-31T01:04:40.0157047+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-b3386a50-ab2b-461b-975d-f23e3a6c9c47</UniqueID>
     <UserID>REQ-5</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Нерегистриран потребител има възможност да види демо и да разглежда публични сценарии на пътувания</Name>
-    <Sequence>4</Sequence>
+    <Name>Демо за нерегистриран потребител</Name>
+    <Description>Нерегистриран потребител има възможност да види демо
+</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\f0\fs20\'cd\'e5\'f0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \'e8\'ec\'e0 \'e2\'fa\'e7\'ec\'ee\'e6\'ed\'ee\'f1\'f2 \'e4\'e0 \'e2\'e8\'e4\'e8 \'e4\'e5\'ec\'ee\f1\par
+\cf1\lang1049\f0\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
     <Type>Functional</Type>
     <Priority>4</Priority>
     <Source />
@@ -1043,15 +1075,21 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T22:39:55.7079845+03:00</DateModified>
+    <DateModified>2018-05-31T01:05:39.6001739+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-2dd50bfd-29f9-4e10-ba6e-d3dbbf538ea2</UniqueID>
     <UserID>REQ-6</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Регистриран потребител може да създава списъци с необходими неща (и по категории)</Name>
-    <Sequence>5</Sequence>
+    <Name>Списъци с необходими неща</Name>
+    <Description>Регистриран потребител може да създава списъци с необходими неща по категории</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \'ec\'ee\'e6\'e5 \'e4\'e0 \'f1\'fa\'e7\'e4\'e0\'e2\'e0 \'f1\'ef\'e8\'f1\'fa\'f6\'e8 \'f1 \'ed\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'e8 \'ed\'e5\'f9\'e0 \'ef\'ee \'ea\'e0\'f2\'e5\'e3\'ee\'f0\'e8\'e8\f1\par
+}
+</RichDescription>
+    <Sequence>7</Sequence>
     <Type>Functional</Type>
     <Priority>1</Priority>
     <Source />
@@ -1059,46 +1097,20 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:00:15.7925204+03:00</DateModified>
+    <DateModified>2018-05-31T01:07:31.6127567+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-9a67c454-24bf-4096-bba1-bffe02167c49</UniqueID>
     <UserID>REQ-7</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Регистриран потребител може да дефинира различни дейности по време на пътуване</Name>
-    <Sequence>6</Sequence>
-    <Type>Functional</Type>
-    <Priority>1</Priority>
-    <Source />
-    <Status />
-    <AssignedTo />
-    <Release />
-    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:00:27.2825126+03:00</DateModified>
-    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
-  </Requirement>
-  <Requirement>
-    <UniqueID>REQ-bbeeb112-ed77-4171-b75c-504a15b338eb</UniqueID>
-    <UserID>REQ-8</UserID>
-    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Системата предоставя анализ на място за пътуване по различни критерии</Name>
-    <Sequence>7</Sequence>
-    <Type>Functional</Type>
-    <Priority>2</Priority>
-    <Source />
-    <Status />
-    <AssignedTo />
-    <Release />
-    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:55:10.6737649+03:00</DateModified>
-    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
-  </Requirement>
-  <Requirement>
-    <UniqueID>REQ-1a1da829-d8f1-4ee4-b445-ef66dd5192cb</UniqueID>
-    <UserID>REQ-9</UserID>
-    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Регистриран потребител може да планира свои публични и лични маршрути за пътуване</Name>
+    <Name>Дейности по време на пътуване</Name>
+    <Description>Регистриран потребител може да дефинира различни дейности по време на пътуване</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \'ec\'ee\'e6\'e5 \'e4\'e0 \'e4\'e5\'f4\'e8\'ed\'e8\'f0\'e0 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'e8 \'e4\'e5\'e9\'ed\'ee\'f1\'f2\'e8 \'ef\'ee \'e2\'f0\'e5\'ec\'e5 \'ed\'e0 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5\f1\par
+}
+</RichDescription>
     <Sequence>8</Sequence>
     <Type>Functional</Type>
     <Priority>1</Priority>
@@ -1107,30 +1119,42 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:49:21.6182829+03:00</DateModified>
+    <DateModified>2018-05-31T01:07:57.2404321+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
-    <UniqueID>REQ-870d73f3-355c-4d78-b789-f349c44710aa</UniqueID>
-    <UserID>REQ-10</UserID>
+    <UniqueID>REQ-bbeeb112-ed77-4171-b75c-504a15b338eb</UniqueID>
+    <UserID>REQ-8</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Системата може да генерира маршрут през всички дефинирани места за посещение</Name>
+    <Name>Анализ на място за пътуване</Name>
+    <Description>Системата предоставя анализ на място за пътуване по оценка на потребители</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0 \'ef\'f0\'e5\'e4\'ee\'f1\'f2\'e0\'e2\'ff \'e0\'ed\'e0\'eb\'e8\'e7 \'ed\'e0 \'ec\'ff\'f1\'f2\'ee \'e7\'e0 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5 \'ef\'ee \'ee\'f6\'e5\'ed\'ea\'e0 \'ed\'e0 \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb\'e8\f1\par
+}
+</RichDescription>
     <Sequence>9</Sequence>
     <Type>Functional</Type>
-    <Priority>1</Priority>
+    <Priority>2</Priority>
     <Source />
     <Status />
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:51:55.2055355+03:00</DateModified>
+    <DateModified>2018-05-31T01:08:41.0756184+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
-    <UniqueID>REQ-9c130e69-a351-447d-aa53-b8da48a8ae64</UniqueID>
-    <UserID>REQ-11</UserID>
+    <UniqueID>REQ-1a1da829-d8f1-4ee4-b445-ef66dd5192cb</UniqueID>
+    <UserID>REQ-9</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Регистриран потребител може да публикува свои сценарии на пътуване</Name>
+    <Name>Лични маршрути за пътуване</Name>
+    <Description>Регистриран потребител може да планира свои лични маршрути за пътуване</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \'ec\'ee\'e6\'e5 \'e4\'e0 \'ef\'eb\'e0\'ed\'e8\'f0\'e0 \'f1\'e2\'ee\'e8 \'eb\'e8\'f7\'ed\'e8 \'ec\'e0\'f0\'f8\'f0\'f3\'f2\'e8 \'e7\'e0 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5\f1\par
+}
+</RichDescription>
     <Sequence>10</Sequence>
     <Type>Functional</Type>
     <Priority>1</Priority>
@@ -1139,30 +1163,20 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:01:24.273907+03:00</DateModified>
+    <DateModified>2018-05-31T01:10:35.7223693+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
-    <UniqueID>REQ-37b4c64e-b3ec-434c-a3df-60a915cc09d9</UniqueID>
-    <UserID>REQ-12</UserID>
+    <UniqueID>REQ-870d73f3-355c-4d78-b789-f349c44710aa</UniqueID>
+    <UserID>REQ-10</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Регистриран потребител може да прави копие на сценарии публикувани от други потребители, като те биват добавени при неговите пътувания, където той може да ги променя</Name>
-    <Sequence>11</Sequence>
-    <Type>Functional</Type>
-    <Priority>1</Priority>
-    <Source />
-    <Status />
-    <AssignedTo />
-    <Release />
-    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:50:13.6745351+03:00</DateModified>
-    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
-  </Requirement>
-  <Requirement>
-    <UniqueID>REQ-64e886e4-0da6-4a7c-809e-398f1e038882</UniqueID>
-    <UserID>REQ-13</UserID>
-    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Регистриран потребител може да организира пътуване заедно с други поканени потребители</Name>
+    <Name>Генериране на маршрут</Name>
+    <Description>Системата може да генерира маршрут през всички дефинирани от потребителя места за посещение</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0 \'ec\'ee\'e6\'e5 \'e4\'e0 \'e3\'e5\'ed\'e5\'f0\'e8\'f0\'e0 \'ec\'e0\'f0\'f8\'f0\'f3\'f2 \'ef\'f0\'e5\'e7 \'e2\'f1\'e8\'f7\'ea\'e8 \'e4\'e5\'f4\'e8\'ed\'e8\'f0\'e0\'ed\'e8 \'ee\'f2 \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb\'ff \'ec\'e5\'f1\'f2\'e0 \'e7\'e0 \'ef\'ee\'f1\'e5\'f9\'e5\'ed\'e8\'e5\f1\par
+}
+</RichDescription>
     <Sequence>12</Sequence>
     <Type>Functional</Type>
     <Priority>1</Priority>
@@ -1171,14 +1185,20 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:48:31.8330645+03:00</DateModified>
+    <DateModified>2018-05-31T01:11:47.551725+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
-    <UniqueID>REQ-2b00e2e4-787a-40b5-9628-cfbd94a550b3</UniqueID>
-    <UserID>REQ-14</UserID>
+    <UniqueID>REQ-9c130e69-a351-447d-aa53-b8da48a8ae64</UniqueID>
+    <UserID>REQ-11</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Регистрирани компании могат да публикуват услугите, които предоставят</Name>
+    <Name>Публикуване на сценарии</Name>
+    <Description>Регистриран потребител може да публикува свои сценарии на пътуване в рамките на системата</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \'ec\'ee\'e6\'e5 \'e4\'e0 \'ef\'f3\'e1\'eb\'e8\'ea\'f3\'e2\'e0 \'f1\'e2\'ee\'e8 \'f1\'f6\'e5\'ed\'e0\'f0\'e8\'e8 \'ed\'e0 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5 \'e2 \'f0\'e0\'ec\'ea\'e8\'f2\'e5 \'ed\'e0 \'f1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0\f1\par
+}
+</RichDescription>
     <Sequence>13</Sequence>
     <Type>Functional</Type>
     <Priority>1</Priority>
@@ -1187,15 +1207,87 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:51:13.1914186+03:00</DateModified>
+    <DateModified>2018-05-31T01:12:15.4893061+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-37b4c64e-b3ec-434c-a3df-60a915cc09d9</UniqueID>
+    <UserID>REQ-12</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Преизползване на публикувани сценарии</Name>
+    <Description>Регистриран потребител може да прави копие на сценарии публикувани от други потребители, като те биват добавени при неговите пътувания</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \'ec\'ee\'e6\'e5 \'e4\'e0 \'ef\'f0\'e0\'e2\'e8 \'ea\'ee\'ef\'e8\'e5 \'ed\'e0 \'f1\'f6\'e5\'ed\'e0\'f0\'e8\'e8 \'ef\'f3\'e1\'eb\'e8\'ea\'f3\'e2\'e0\'ed\'e8 \'ee\'f2 \'e4\'f0\'f3\'e3\'e8 \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb\'e8, \'ea\'e0\'f2\'ee \'f2\'e5 \'e1\'e8\'e2\'e0\'f2 \'e4\'ee\'e1\'e0\'e2\'e5\'ed\'e8 \'ef\'f0\'e8 \'ed\'e5\'e3\'ee\'e2\'e8\'f2\'e5 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e8\'ff\f1\par
+}
+</RichDescription>
+    <Sequence>14</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:13:18.3989319+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-64e886e4-0da6-4a7c-809e-398f1e038882</UniqueID>
+    <UserID>REQ-13</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Екипна организация на пътуване</Name>
+    <Description>Регистриран потребител може да организира пътуване заедно с други потребители, които също участват в пътуването</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \'ec\'ee\'e6\'e5 \'e4\'e0 \'ee\'f0\'e3\'e0\'ed\'e8\'e7\'e8\'f0\'e0 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5 \'e7\'e0\'e5\'e4\'ed\'ee \'f1 \'e4\'f0\'f3\'e3\'e8 \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb\'e8, \'ea\'ee\'e8\'f2\'ee \'f1\'fa\'f9\'ee \'f3\'f7\'e0\'f1\'f2\'e2\'e0\'f2 \'e2 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5\'f2\'ee\f1\par
+}
+</RichDescription>
+    <Sequence>16</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:16:01.6787508+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-2b00e2e4-787a-40b5-9628-cfbd94a550b3</UniqueID>
+    <UserID>REQ-14</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Услуги на компании</Name>
+    <Description>Регистрирани в системата компании могат да публикуват услугите, които предоставят</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed\'e8 \'e2 \'f1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0 \'ea\'ee\'ec\'ef\'e0\'ed\'e8\'e8 \'ec\'ee\'e3\'e0\'f2 \'e4\'e0 \'ef\'f3\'e1\'eb\'e8\'ea\'f3\'e2\'e0\'f2 \'f3\'f1\'eb\'f3\'e3\'e8\'f2\'e5, \'ea\'ee\'e8\'f2\'ee \'ef\'f0\'e5\'e4\'ee\'f1\'f2\'e0\'e2\'ff\'f2\f1\par
+}
+</RichDescription>
+    <Sequence>17</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:16:33.0130605+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-8f2263ed-f706-46e7-a9d7-9ded6fdaf22b</UniqueID>
     <UserID>REQ-15</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Регистрирани компании могат да си партнират, за да предоставят пакети от услуги</Name>
-    <Sequence>14</Sequence>
+    <Name>Партньорство на компании</Name>
+    <Description>Регистрирани в системата компании могат да си партнират, за да предоставят пакети от услуги</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed\'e8 \'e2 \'f1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0 \'ea\'ee\'ec\'ef\'e0\'ed\'e8\'e8 \'ec\'ee\'e3\'e0\'f2 \'e4\'e0 \'f1\'e8 \'ef\'e0\'f0\'f2\'ed\'e8\'f0\'e0\'f2, \'e7\'e0 \'e4\'e0 \'ef\'f0\'e5\'e4\'ee\'f1\'f2\'e0\'e2\'ff\'f2 \'ef\'e0\'ea\'e5\'f2\'e8 \'ee\'f2 \'f3\'f1\'eb\'f3\'e3\'e8\f1\par
+}
+</RichDescription>
+    <Sequence>18</Sequence>
     <Type>Functional</Type>
     <Priority>2</Priority>
     <Source />
@@ -1203,7 +1295,7 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:54:31.7581695+03:00</DateModified>
+    <DateModified>2018-05-31T01:17:11.6751474+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
@@ -1211,7 +1303,13 @@
     <UserID>REQ-16</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
     <Name>Интеграция с Airbnb</Name>
-    <Sequence>15</Sequence>
+    <Description>Интеграция с Airbnb за намиране на място за нощуване</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'c8\'ed\'f2\'e5\'e3\'f0\'e0\'f6\'e8\'ff \'f1 Airbnb \'e7\'e0 \'ed\'e0\'ec\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \'ec\'ff\'f1\'f2\'ee \'e7\'e0 \'ed\'ee\'f9\'f3\'e2\'e0\'ed\'e5\f1\par
+}
+</RichDescription>
+    <Sequence>19</Sequence>
     <Type>Functional</Type>
     <Priority>3</Priority>
     <Source />
@@ -1219,15 +1317,21 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:56:42.2742025+03:00</DateModified>
+    <DateModified>2018-05-31T01:17:35.0829356+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-d9eedf4b-3220-44d1-97f4-7be53732566f</UniqueID>
     <UserID>REQ-17</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Предложения за дестинации и забележителности базирани на обратна връзка на пътуващи за тях</Name>
-    <Sequence>16</Sequence>
+    <Name>Предложения за дестинации</Name>
+    <Description>Предложения за дестинации базирани на обратна връзка на пътуващи за тях</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'cf\'f0\'e5\'e4\'eb\'ee\'e6\'e5\'ed\'e8\'ff \'e7\'e0 \'e4\'e5\'f1\'f2\'e8\'ed\'e0\'f6\'e8\'e8 \'e1\'e0\'e7\'e8\'f0\'e0\'ed\'e8 \'ed\'e0 \'ee\'e1\'f0\'e0\'f2\'ed\'e0 \'e2\'f0\'fa\'e7\'ea\'e0 \'ed\'e0 \'ef\'fa\'f2\'f3\'e2\'e0\'f9\'e8 \'e7\'e0 \'f2\'ff\'f5\f1\par
+}
+</RichDescription>
+    <Sequence>20</Sequence>
     <Type>Functional</Type>
     <Priority>2</Priority>
     <Source />
@@ -1235,15 +1339,21 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:10:43.3361019+03:00</DateModified>
+    <DateModified>2018-05-31T01:18:07.2381976+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-1dcf8f1d-2629-4113-9d2c-1040da136502</UniqueID>
     <UserID>REQ-18</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Всеки отделен спътник може да има свой миркоплан в рамките на макропланът към който се е присъединил</Name>
-    <Sequence>17</Sequence>
+    <Name>Микроплан на макроплан</Name>
+    <Description>Всеки отделен спътник може да създава свой миркоплан в рамките на макропланът към който се е присъединил</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'c2\'f1\'e5\'ea\'e8 \'ee\'f2\'e4\'e5\'eb\'e5\'ed \'f1\'ef\'fa\'f2\'ed\'e8\'ea \'ec\'ee\'e6\'e5 \'e4\'e0 \'f1\'fa\'e7\'e4\'e0\'e2\'e0 \'f1\'e2\'ee\'e9 \'ec\'e8\'f0\'ea\'ee\'ef\'eb\'e0\'ed \'e2 \'f0\'e0\'ec\'ea\'e8\'f2\'e5 \'ed\'e0 \'ec\'e0\'ea\'f0\'ee\'ef\'eb\'e0\'ed\'fa\'f2 \'ea\'fa\'ec \'ea\'ee\'e9\'f2\'ee \'f1\'e5 \'e5 \'ef\'f0\'e8\'f1\'fa\'e5\'e4\'e8\'ed\'e8\'eb\f1\par
+}
+</RichDescription>
+    <Sequence>21</Sequence>
     <Type>Functional</Type>
     <Priority>2</Priority>
     <Source />
@@ -1251,78 +1361,20 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:52:53.2873049+03:00</DateModified>
+    <DateModified>2018-05-31T01:18:43.8425304+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-0187920b-f942-495e-8f36-a8b7f5196bd1</UniqueID>
     <UserID>REQ-19</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Използване на SSL/TLS encryption за цялата система</Name>
-    <Sequence>18</Sequence>
-    <Type>Non-functional</Type>
-    <Priority>2</Priority>
-    <Source />
-    <Status />
-    <AssignedTo />
-    <Release />
-    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:53:18.3993052+03:00</DateModified>
-    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
-  </Requirement>
-  <Requirement>
-    <UniqueID>REQ-172a4a60-316f-4a94-8eee-47cd307d4103</UniqueID>
-    <UserID>REQ-20</UserID>
-    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Работа с различни видове валути</Name>
-    <Sequence>19</Sequence>
-    <Type>Non-functional</Type>
-    <Priority>3</Priority>
-    <Source />
-    <Status />
-    <AssignedTo />
-    <Release />
-    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:57:43.5690912+03:00</DateModified>
-    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
-  </Requirement>
-  <Requirement>
-    <UniqueID>REQ-f52155df-4969-4149-b0be-03c0066c5678</UniqueID>
-    <UserID>REQ-21</UserID>
-    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Висока степен на достъпност - поне 99%</Name>
-    <Sequence>20</Sequence>
-    <Type>Non-functional</Type>
-    <Priority>3</Priority>
-    <Source />
-    <Status />
-    <AssignedTo />
-    <Release />
-    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:56:28.9313178+03:00</DateModified>
-    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
-  </Requirement>
-  <Requirement>
-    <UniqueID>REQ-a75bb16a-7192-43c2-84de-c504815f2ffd</UniqueID>
-    <UserID>REQ-22</UserID>
-    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Работа с най-разпространените видове банкови карти - Visa, MasterCard, AmericanExpress</Name>
-    <Sequence>21</Sequence>
-    <Type>Non-functional</Type>
-    <Priority>3</Priority>
-    <Source />
-    <Status />
-    <AssignedTo />
-    <Release />
-    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:57:21.3808622+03:00</DateModified>
-    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
-  </Requirement>
-  <Requirement>
-    <UniqueID>REQ-fdf4b061-1ab4-47a5-bb24-b98a42227648</UniqueID>
-    <UserID>REQ-23</UserID>
-    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Интеграция на пътуване с Google Calendar, Google Maps</Name>
+    <Name>Използване на SSL/TLS</Name>
+    <Description>Използване на SSL/TLS encryption за всички входящи и изходящи заявки към и от системата</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'c8\'e7\'ef\'ee\'eb\'e7\'e2\'e0\'ed\'e5 \'ed\'e0 SSL/TLS encryption \'e7\'e0 \'e2\'f1\'e8\'f7\'ea\'e8 \'e2\'f5\'ee\'e4\'ff\'f9\'e8 \'e8 \'e8\'e7\'f5\'ee\'e4\'ff\'f9\'e8 \'e7\'e0\'ff\'e2\'ea\'e8 \'ea\'fa\'ec \'e8 \'ee\'f2 \'f1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0\f1\par
+}
+</RichDescription>
     <Sequence>22</Sequence>
     <Type>Non-functional</Type>
     <Priority>2</Priority>
@@ -1331,21 +1383,109 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:24:11.3640285+03:00</DateModified>
+    <DateModified>2018-05-31T01:19:07.5679455+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-172a4a60-316f-4a94-8eee-47cd307d4103</UniqueID>
+    <UserID>REQ-20</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Работа с различни видове валути</Name>
+    <Description>Работа с различни видове валути, като начало Евро, британски паунд и американски долар</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e0\'e1\'ee\'f2\'e0 \'f1 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'e8 \'e2\'e8\'e4\'ee\'e2\'e5 \'e2\'e0\'eb\'f3\'f2\'e8, \'ea\'e0\'f2\'ee \'ed\'e0\'f7\'e0\'eb\'ee \'c5\'e2\'f0\'ee, \'e1\'f0\'e8\'f2\'e0\'ed\'f1\'ea\'e8 \'ef\'e0\'f3\'ed\'e4 \'e8 \'e0\'ec\'e5\'f0\'e8\'ea\'e0\'ed\'f1\'ea\'e8 \'e4\'ee\'eb\'e0\'f0\f1\par
+}
+</RichDescription>
+    <Sequence>23</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:19:28.5661502+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-f52155df-4969-4149-b0be-03c0066c5678</UniqueID>
+    <UserID>REQ-21</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Висока степен на достъпност</Name>
+    <Description>Висока степен на достъпност - поне 99%</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'c2\'e8\'f1\'ee\'ea\'e0 \'f1\'f2\'e5\'ef\'e5\'ed \'ed\'e0 \'e4\'ee\'f1\'f2\'fa\'ef\'ed\'ee\'f1\'f2 \f1 - \f0\'ef\'ee\'ed\'e5 99%\f1\par
+}
+</RichDescription>
+    <Sequence>24</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:19:52.7024355+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-a75bb16a-7192-43c2-84de-c504815f2ffd</UniqueID>
+    <UserID>REQ-22</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Работа с банкови карти</Name>
+    <Description>Работа с банковите карти Visa, MasterCard, AmericanExpress</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e0\'e1\'ee\'f2\'e0 \'f1 \'e1\'e0\'ed\'ea\'ee\'e2\'e8\'f2\'e5 \'ea\'e0\'f0\'f2\'e8 Visa, MasterCard, AmericanExpress\f1\par
+}
+</RichDescription>
+    <Sequence>25</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:20:36.0696582+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-fdf4b061-1ab4-47a5-bb24-b98a42227648</UniqueID>
+    <UserID>REQ-23</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Интеграция на пътуване с Google Calendar</Name>
+    <Description>Интеграция на пътуване с Google Calendar</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'c8\'ed\'f2\'e5\'e3\'f0\'e0\'f6\'e8\'ff \'ed\'e0 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5 \'f1 Google Calendar\f1\par
+}
+</RichDescription>
+    <Sequence>26</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:21:09.5271816+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-9a9f18ae-59d7-4230-9b9e-5a1a3e0b4e87</UniqueID>
     <UserID>REQ-24</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Автоматизиран начин за търсене и плащане на осигуровки, билети, хотел, кола под наем, такси</Name>
-    <Description />
-    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+    <Name>Автоматизация на търсене</Name>
+    <Description>Автоматизиран начин за търсене на осигуровки, билети, хотел, кола под наем, такси</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
 {\colortbl ;\red0\green0\blue0;}
-\viewkind4\uc1\pard\cf1\f0\fs20\par
+\viewkind4\uc1\pard\cf1\f0\fs20\'c0\'e2\'f2\'ee\'ec\'e0\'f2\'e8\'e7\'e8\'f0\'e0\'ed \'ed\'e0\'f7\'e8\'ed \'e7\'e0 \'f2\'fa\'f0\'f1\'e5\'ed\'e5 \'ed\'e0 \'ee\'f1\'e8\'e3\'f3\'f0\'ee\'e2\'ea\'e8, \'e1\'e8\'eb\'e5\'f2\'e8, \'f5\'ee\'f2\'e5\'eb, \'ea\'ee\'eb\'e0 \'ef\'ee\'e4 \'ed\'e0\'e5\'ec, \'f2\'e0\'ea\'f1\'e8\f1\par
 }
 </RichDescription>
-    <Sequence>23</Sequence>
+    <Sequence>28</Sequence>
     <Type>Non-functional</Type>
     <Priority>1</Priority>
     <Source />
@@ -1353,15 +1493,21 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:41:57.3429238+03:00</DateModified>
+    <DateModified>2018-05-31T01:22:02.6961811+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-dc9c2500-3f64-4384-8e07-f3ba99119852</UniqueID>
     <UserID>REQ-25</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Системата да бъде налична на различни видове устройства - компютър, лаптоп, телефон, таблет</Name>
-    <Sequence>24</Sequence>
+    <Name>Платформи</Name>
+    <Description>Системата да бъде налична на различни видове устройства - компютър, лаптоп, телефон, таблет</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0 \'e4\'e0 \'e1\'fa\'e4\'e5 \'ed\'e0\'eb\'e8\'f7\'ed\'e0 \'ed\'e0 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'e8 \'e2\'e8\'e4\'ee\'e2\'e5 \'f3\'f1\'f2\'f0\'ee\'e9\'f1\'f2\'e2\'e0 \f1 - \f0\'ea\'ee\'ec\'ef\'fe\'f2\'fa\'f0, \'eb\'e0\'ef\'f2\'ee\'ef, \'f2\'e5\'eb\'e5\'f4\'ee\'ed, \'f2\'e0\'e1\'eb\'e5\'f2\f1\par
+}
+</RichDescription>
+    <Sequence>30</Sequence>
     <Type>Non-functional</Type>
     <Priority>1</Priority>
     <Source />
@@ -1369,7 +1515,7 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:51:33.2634816+03:00</DateModified>
+    <DateModified>2018-05-31T01:23:25.7070401+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
@@ -1377,13 +1523,13 @@
     <UserID>REQ-26</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
     <Name>Системата представлява уеб приложение</Name>
-    <Description xml:space="preserve">		</Description>
-    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+    <Description>Системата представлява уеб приложение, разработено на Java		</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
 {\colortbl ;\red0\green0\blue0;}
-\viewkind4\uc1\pard\cf1\f0\fs20\tab\tab\par
+\viewkind4\uc1\pard\cf1\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0 \'ef\'f0\'e5\'e4\'f1\'f2\'e0\'e2\'eb\'ff\'e2\'e0 \'f3\'e5\'e1 \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5, \'f0\'e0\'e7\'f0\'e0\'e1\'ee\'f2\'e5\'ed\'ee \'ed\'e0 Java\f1\tab\tab\par
 }
 </RichDescription>
-    <Sequence>25</Sequence>
+    <Sequence>32</Sequence>
     <Type>Non-functional</Type>
     <Priority>1</Priority>
     <Source />
@@ -1391,15 +1537,21 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:52:19.4603531+03:00</DateModified>
+    <DateModified>2018-05-31T01:24:40.759514+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-1a6c2990-9b37-4b51-8d36-1a44872bed72</UniqueID>
     <UserID>REQ-27</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Системата да бъде налична на няколко езика - английски, руски, български</Name>
-    <Sequence>26</Sequence>
+    <Name>Многоезичност</Name>
+    <Description>Системата да бъде налична на следните езици: английски, руски, български</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0 \'e4\'e0 \'e1\'fa\'e4\'e5 \'ed\'e0\'eb\'e8\'f7\'ed\'e0 \'ed\'e0 \'f1\'eb\'e5\'e4\'ed\'e8\'f2\'e5 \'e5\'e7\'e8\'f6\'e8: \'e0\'ed\'e3\'eb\'e8\'e9\'f1\'ea\'e8, \'f0\'f3\'f1\'ea\'e8, \'e1\'fa\'eb\'e3\'e0\'f0\'f1\'ea\'e8\f1\par
+}
+</RichDescription>
+    <Sequence>33</Sequence>
     <Type>Non-functional</Type>
     <Priority>4</Priority>
     <Source />
@@ -1407,15 +1559,21 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:14:42.6229627+03:00</DateModified>
+    <DateModified>2018-05-31T01:25:22.0686349+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-aa288dc0-f68e-47db-a150-a7e204a9ef6f</UniqueID>
     <UserID>REQ-28</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Менажиране на лични данни спрямо Общ регламент за защита на личните данни (GDPR)</Name>
-    <Sequence>27</Sequence>
+    <Name>Менажиране на лични данни</Name>
+    <Description>Менажиране на лични данни спрямо Общ регламент за защита на личните данни (GDPR)</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'cc\'e5\'ed\'e0\'e6\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \'eb\'e8\'f7\'ed\'e8 \'e4\'e0\'ed\'ed\'e8 \'f1\'ef\'f0\'ff\'ec\'ee \'ce\'e1\'f9 \'f0\'e5\'e3\'eb\'e0\'ec\'e5\'ed\'f2 \'e7\'e0 \'e7\'e0\'f9\'e8\'f2\'e0 \'ed\'e0 \'eb\'e8\'f7\'ed\'e8\'f2\'e5 \'e4\'e0\'ed\'ed\'e8 (GDPR)\f1\par
+}
+</RichDescription>
+    <Sequence>34</Sequence>
     <Type>Constraint</Type>
     <Priority>1</Priority>
     <Source />
@@ -1423,15 +1581,21 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:46:39.0811414+03:00</DateModified>
+    <DateModified>2018-05-31T01:25:56.9844043+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-809d23f7-18a0-402f-8260-d3e383a6814d</UniqueID>
     <UserID>REQ-29</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Отговаряне на стандартите за парични транзакции онлайн</Name>
-    <Sequence>28</Sequence>
+    <Name>Отговаряне на стандартите за парични транзакции</Name>
+    <Description>Отговаряне на стандартите за парични транзакции онлайн определени от The European Banking Authority (EBA)</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\lang1049\f0\fs20\'ce\'f2\'e3\'ee\'e2\'e0\'f0\'ff\'ed\'e5 \'ed\'e0 \'f1\'f2\'e0\'ed\'e4\'e0\'f0\'f2\'e8\'f2\'e5 \'e7\'e0 \'ef\'e0\'f0\'e8\'f7\'ed\'e8 \'f2\'f0\'e0\'ed\'e7\'e0\'ea\'f6\'e8\'e8 \'ee\'ed\'eb\'e0\'e9\'ed \'ee\'ef\'f0\'e5\'e4\'e5\'eb\'e5\'ed\'e8 \'ee\'f2 The European Banking Authority (EBA)\lang1033\f1\par
+}
+</RichDescription>
+    <Sequence>35</Sequence>
     <Type>Constraint</Type>
     <Priority>1</Priority>
     <Source />
@@ -1439,15 +1603,21 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:47:09.438979+03:00</DateModified>
+    <DateModified>2018-05-31T01:26:22.9085335+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Requirement>
     <UniqueID>REQ-c7cb207d-07c6-40e1-8f2d-512cc3c2f262</UniqueID>
     <UserID>REQ-30</UserID>
     <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
-    <Name>Стандарти свързани легалното пътуване на потребители</Name>
-    <Sequence>29</Sequence>
+    <Name>Стандарти свързани легалното пътуване</Name>
+    <Description>Спазване на стандарти свързани легалното пътуване на потребители - визи</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d1\'ef\'e0\'e7\'e2\'e0\'ed\'e5 \'ed\'e0 \'f1\'f2\'e0\'ed\'e4\'e0\'f0\'f2\'e8 \'f1\'e2\'fa\'f0\'e7\'e0\'ed\'e8 \'eb\'e5\'e3\'e0\'eb\'ed\'ee\'f2\'ee \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5 \'ed\'e0 \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb\'e8 - \'e2\'e8\'e7\'e8\f1\par
+}
+</RichDescription>
+    <Sequence>36</Sequence>
     <Type>Constraint</Type>
     <Priority>2</Priority>
     <Source />
@@ -1455,7 +1625,160 @@
     <AssignedTo />
     <Release />
     <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
-    <DateModified>2018-05-14T20:25:48.4584462+03:00</DateModified>
+    <DateModified>2018-05-31T01:26:54.8678321+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-4e2a3f9f-085d-4a1d-9f42-fd321915d30d</UniqueID>
+    <UserID>REQ-31</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Конфигурация на общо пътуване</Name>
+    <Description>Общото пътуване за много може да се конфигурира за всекиго от пътуващи поотделно</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'ce\'e1\'f9\'ee\'f2\'ee \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5 \'e7\'e0 \'ec\'ed\'ee\'e3\'ee \'ec\'ee\'e6\'e5 \'e4\'e0 \'f1\'e5 \'ea\'ee\'ed\'f4\'e8\'e3\'f3\'f0\'e8\'f0\'e0 \'e7\'e0 \'e2\'f1\'e5\'ea\'e8\'e3\'ee \'ee\'f2 \'ef\'fa\'f2\'f3\'e2\'e0\'f9\'e8 \'ef\'ee\'ee\'f2\'e4\'e5\'eb\'ed\'ee\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:03:27.6560403+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-67df7913-2210-47f0-8233-0d6f2e03305d</UniqueID>
+    <UserID>REQ-32</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Публични сценарии за нерегистриран потребител</Name>
+    <Description>Нерегистриран потребител има възможност да разглежда публични сценарии на пътувания</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'cd\'e5\'f0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \'e8\'ec\'e0 \'e2\'fa\'e7\'ec\'ee\'e6\'ed\'ee\'f1\'f2 \'e4\'e0 \'f0\'e0\'e7\'e3\'eb\'e5\'e6\'e4\'e0 \'ef\'f3\'e1\'eb\'e8\'f7\'ed\'e8 \'f1\'f6\'e5\'ed\'e0\'f0\'e8\'e8 \'ed\'e0 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e8\'ff\par
+}
+</RichDescription>
+    <Sequence>6</Sequence>
+    <Type>Functional</Type>
+    <Priority>4</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:06:30.9866328+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-c39f86cc-93b9-43f1-9ff7-395982949bf7</UniqueID>
+    <UserID>REQ-33</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Публични маршрути за пътуване</Name>
+    <Description>Регистриран потребител може да планира свои публични маршрути за пътуване</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \'ec\'ee\'e6\'e5 \'e4\'e0 \'ef\'eb\'e0\'ed\'e8\'f0\'e0 \'f1\'e2\'ee\'e8 \'ef\'f3\'e1\'eb\'e8\'f7\'ed\'e8 \'ec\'e0\'f0\'f8\'f0\'f3\'f2\'e8 \'e7\'e0 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5\par
+}
+</RichDescription>
+    <Sequence>11</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:11:12.5587043+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-107e3267-3b35-4b11-acf7-0a8892c9230a</UniqueID>
+    <UserID>REQ-34</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Промяна на копирани сценарии</Name>
+    <Description>Регистриран потребител може да променя направеното копие на сценарии публикувани от други потребители</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d0\'e5\'e3\'e8\'f1\'f2\'f0\'e8\'f0\'e0\'ed \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb \'ec\'ee\'e6\'e5 \'e4\'e0 \'ef\'f0\'ee\'ec\'e5\'ed\'ff \'ed\'e0\'ef\'f0\'e0\'e2\'e5\'ed\'ee\'f2\'ee \'ea\'ee\'ef\'e8\'e5 \'ed\'e0 \'f1\'f6\'e5\'ed\'e0\'f0\'e8\'e8 \'ef\'f3\'e1\'eb\'e8\'ea\'f3\'e2\'e0\'ed\'e8 \'ee\'f2 \'e4\'f0\'f3\'e3\'e8 \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb\'e8\par
+}
+</RichDescription>
+    <Sequence>15</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:15:13.3277452+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-f1bf8a36-41d9-4afe-b0df-ef361fa7520b</UniqueID>
+    <UserID>REQ-35</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Интеграция на пътуване с Google Maps</Name>
+    <Description>Интеграция на пътуване с Google Maps</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'c8\'ed\'f2\'e5\'e3\'f0\'e0\'f6\'e8\'ff \'ed\'e0 \'ef\'fa\'f2\'f3\'e2\'e0\'ed\'e5 \'f1 Google Maps\f1\par
+}
+</RichDescription>
+    <Sequence>27</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:21:28.7676625+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-b04f8dd9-6507-48e6-9bc4-7c9a65e0823d</UniqueID>
+    <UserID>REQ-36</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Автоматизация на плащане</Name>
+    <Description>Автоматизиран начин за плащане на осигуровки, билети, хотел, кола под наем, такси</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'c0\'e2\'f2\'ee\'ec\'e0\'f2\'e8\'e7\'e8\'f0\'e0\'ed \'ed\'e0\'f7\'e8\'ed \'e7\'e0 \'ef\'eb\'e0\'f9\'e0\'ed\'e5 \'ed\'e0 \'ee\'f1\'e8\'e3\'f3\'f0\'ee\'e2\'ea\'e8, \'e1\'e8\'eb\'e5\'f2\'e8, \'f5\'ee\'f2\'e5\'eb, \'ea\'ee\'eb\'e0 \'ef\'ee\'e4 \'ed\'e0\'e5\'ec, \'f2\'e0\'ea\'f1\'e8\par
+}
+</RichDescription>
+    <Sequence>29</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:22:47.9535235+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-6371670e-0548-4f59-9806-c15a7f968d6f</UniqueID>
+    <UserID>REQ-37</UserID>
+    <ParentID>P-7b3a36f3-1cce-4bad-a52f-8956b28e7cab</ParentID>
+    <Name>Мобилни платформи</Name>
+    <Description>Системата трябва да бъде подържана на Android, iOS</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0 \'f2\'f0\'ff\'e1\'e2\'e0 \'e4\'e0 \'e1\'fa\'e4\'e5 \'ef\'ee\'e4\'fa\'f0\'e6\'e0\'ed\'e0 \'ed\'e0 Android, iOS\par
+}
+</RichDescription>
+    <Sequence>31</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2018-05-14T19:57:38.9814229+03:00</DateAdded>
+    <DateModified>2018-05-31T01:24:21.9116456+03:00</DateModified>
     <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
   </Requirement>
   <Step>
@@ -3076,7 +3399,7 @@
   </UserID>
   <UserID>
     <DefaultPrefix>REQ-</DefaultPrefix>
-    <NextValue>31</NextValue>
+    <NextValue>38</NextValue>
   </UserID>
   <UserID>
     <DefaultPrefix>DEF-</DefaultPrefix>
@@ -3281,6 +3604,62 @@
   <ReqReq>
     <ParentID>REQ-b3386a50-ab2b-461b-975d-f23e3a6c9c47</ParentID>
     <ReqID>REQ-9c130e69-a351-447d-aa53-b8da48a8ae64</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-4e2a3f9f-085d-4a1d-9f42-fd321915d30d</ParentID>
+    <ReqID>REQ-64e886e4-0da6-4a7c-809e-398f1e038882</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-67df7913-2210-47f0-8233-0d6f2e03305d</ParentID>
+    <ReqID>REQ-9c130e69-a351-447d-aa53-b8da48a8ae64</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-c39f86cc-93b9-43f1-9ff7-395982949bf7</ParentID>
+    <ReqID>REQ-b3386a50-ab2b-461b-975d-f23e3a6c9c47</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-c39f86cc-93b9-43f1-9ff7-395982949bf7</ParentID>
+    <ReqID>REQ-aa288dc0-f68e-47db-a150-a7e204a9ef6f</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-c39f86cc-93b9-43f1-9ff7-395982949bf7</ParentID>
+    <ReqID>REQ-f52155df-4969-4149-b0be-03c0066c5678</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-c39f86cc-93b9-43f1-9ff7-395982949bf7</ParentID>
+    <ReqID>REQ-1dcf8f1d-2629-4113-9d2c-1040da136502</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-107e3267-3b35-4b11-acf7-0a8892c9230a</ParentID>
+    <ReqID>REQ-1a1da829-d8f1-4ee4-b445-ef66dd5192cb</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-107e3267-3b35-4b11-acf7-0a8892c9230a</ParentID>
+    <ReqID>REQ-9c130e69-a351-447d-aa53-b8da48a8ae64</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-b04f8dd9-6507-48e6-9bc4-7c9a65e0823d</ParentID>
+    <ReqID>REQ-809d23f7-18a0-402f-8260-d3e383a6814d</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-b04f8dd9-6507-48e6-9bc4-7c9a65e0823d</ParentID>
+    <ReqID>REQ-a75bb16a-7192-43c2-84de-c504815f2ffd</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-b04f8dd9-6507-48e6-9bc4-7c9a65e0823d</ParentID>
+    <ReqID>REQ-172a4a60-316f-4a94-8eee-47cd307d4103</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-b04f8dd9-6507-48e6-9bc4-7c9a65e0823d</ParentID>
+    <ReqID>REQ-2b00e2e4-787a-40b5-9628-cfbd94a550b3</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-b04f8dd9-6507-48e6-9bc4-7c9a65e0823d</ParentID>
+    <ReqID>REQ-bbeeb112-ed77-4171-b75c-504a15b338eb</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-6371670e-0548-4f59-9806-c15a7f968d6f</ParentID>
+    <ReqID>REQ-6decb714-ac7a-4160-a86f-786725a89d6c</ReqID>
   </ReqReq>
   <BuiltInField>
     <UniqueID>1</UniqueID>

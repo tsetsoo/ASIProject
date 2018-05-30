@@ -36,7 +36,7 @@
       <boolean>false</boolean>
     </StoryViewSortOrder>
     <RequirementViewSortColumns>
-      <string>Priority</string>
+      <string>UserID</string>
       <string />
       <string />
     </RequirementViewSortColumns>
@@ -80,7 +80,7 @@
   </StoryList>
   <RequirementList>
     <Columns>Name,UserID,ReqType,Priority,Package,_flag</Columns>
-    <ColumnWidths>999,65,96,63,76,45</ColumnWidths>
+    <ColumnWidths>641,65,96,63,76,45</ColumnWidths>
   </RequirementList>
   <IssueList>
     <Columns>Description,Status,AppliesTo,AssignedTo,Priority,ResolveBy,_flag</Columns>
